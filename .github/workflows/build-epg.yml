@@ -1,0 +1,41 @@
+name: Build Lithuanian EPG
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 4 * * *"
+    - cron: "15 16 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build EPG
+        run: python build_epg.py
+
+      - name: Commit updated EPG
+        run: |
+          git config user.name "EPG Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add lt_epg.xml
+          if git diff --cached --quiet; then
+            echo "No EPG changes."
+          else
+            git commit -m "Update Lithuanian EPG"
+            git push
+          fi
