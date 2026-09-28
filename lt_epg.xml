@@ -438,6 +438,21 @@
   <channel id="Мульт.lt">
     <display-name>Мульт.lt</display-name>
   </channel>
+  <channel id="BBC One England HD.uk">
+    <display-name>BBC One England HD.uk</display-name>
+  </channel>
+  <channel id="BBC Two HD.uk">
+    <display-name>BBC Two HD.uk</display-name>
+  </channel>
+  <channel id="Channel 4 HD.uk">
+    <display-name>Channel 4 HD.uk</display-name>
+  </channel>
+  <channel id="Channel 5 HD.uk">
+    <display-name>Channel 5 HD.uk</display-name>
+  </channel>
+  <channel id="ITV1 London HD.uk">
+    <display-name>ITV1 London HD.uk</display-name>
+  </channel>
   <programme start="20260928010000 +0000" stop="20260928030000 +0000" channel="2TV.lt">
     <title>Sal2</title>
     <desc>Lėtoji televizija - meninė audiovizualinė instaliacija.</desc>
@@ -4701,5 +4716,141 @@
   </programme>
   <programme start="20261004230000 +0300" stop="20261005000000 +0300" channel="Lietuvos ryto televizija.lt">
     <title lang="lt">„Azija“ 1/37-38. Dokumentika. JAV. 2019.</title>
+  </programme>
+  <programme start="20260928030000 +0000" stop="20260928033000 +0000" channel="BBC One England HD.uk">
+    <title>Newsday</title>
+    <desc>From London and Singapore the latest international news from the BBC.</desc>
+  </programme>
+  <programme start="20260928033000 +0000" stop="20260928034500 +0000" channel="BBC One England HD.uk">
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up to date informed analysis from London and around the world.</desc>
+  </programme>
+  <programme start="20260928034500 +0000" stop="20260928040000 +0000" channel="BBC One England HD.uk">
+    <title>BBC Sport</title>
+    <desc>Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.</desc>
+  </programme>
+  <programme start="20260928040000 +0000" stop="20260928043000 +0000" channel="BBC One England HD.uk">
+    <title>BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+  </programme>
+  <programme start="20260928043000 +0000" stop="20260928050000 +0000" channel="BBC One England HD.uk">
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up to date informed analysis from London and around the world.</desc>
+  </programme>
+  <programme start="20260928050000 +0000" stop="20260928083000 +0000" channel="BBC One England HD.uk">
+    <title>Breakfast</title>
+    <desc>The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.</desc>
+  </programme>
+  <programme start="20260928083000 +0000" stop="20260928094500 +0000" channel="BBC One England HD.uk">
+    <title>Morning Live</title>
+    <desc>Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <episode-num system="xmltv_ns">7.83.</episode-num>
+  </programme>
+  <programme start="20260928014000 +0000" stop="20260928053000 +0000" channel="BBC Two HD.uk">
+    <title>This Is BBC TWO</title>
+    <desc>Preview of upcoming programmes from BBC Two.</desc>
+  </programme>
+  <programme start="20260928053000 +0000" stop="20260928061500 +0000" channel="BBC Two HD.uk">
+    <title>Bargain Hunt</title>
+    <sub-title>Lewes 06</sub-title>
+    <desc>Antiques experts Serhat Ahmet and Catherine Southon flex their knowledge of ceramics and jewellery, with two intriguing bonus buys for the teams at Nick Hall's auction in Chichester.</desc>
+    <episode-num system="xmltv_ns">74..</episode-num>
+  </programme>
+  <programme start="20260928061500 +0000" stop="20260928070000 +0000" channel="BBC Two HD.uk">
+    <title>Antiques Road Trip</title>
+    <sub-title>Windsors and Losers</sub-title>
+    <desc>Roo Irvine and Danny Sebastian head to Hampshire on the hunt for silver, spooky and just plain dummy. Then, it all comes down to a fiercely contested auction down by the Thames.</desc>
+    <episode-num system="xmltv_ns">32.9.</episode-num>
+  </programme>
+  <programme start="20260928070000 +0000" stop="20260928080000 +0000" channel="BBC Two HD.uk">
+    <title>Wilderness with Simon Reeve</title>
+    <sub-title>Papua New Guinea</sub-title>
+    <desc>Simon Reeve journeys through the lost world of Papua New Guinea's tropical rainforest, in search of the tenkile tree kangaroo, one of the rarest animals on Earth.</desc>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+  </programme>
+  <programme start="20260928080000 +0000" stop="20260928103000 +0000" channel="BBC Two HD.uk">
+    <title>BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+  </programme>
+  <programme start="20260928103000 +0000" stop="20260928120000 +0000" channel="BBC Two HD.uk">
+    <title>Politics Live</title>
+    <desc>Engaging conversation about the political issues that matter to you.</desc>
+  </programme>
+  <programme start="20260928120000 +0000" stop="20260928124500 +0000" channel="BBC Two HD.uk">
+    <title>Impossible</title>
+    <desc>Thirty players compete across the series, scoring points by answering questions correctly. However, they must avoid the impossible answers, otherwise they will be eliminated from the show until the next day.</desc>
+    <episode-num system="xmltv_ns">6.20.</episode-num>
+  </programme>
+  <programme start="20260928030000 +0000" stop="20260928032500 +0000" channel="Channel 4 HD.uk">
+    <title>The Simpsons</title>
+    <sub-title>Whacking Day</sub-title>
+    <desc>The Springfield holiday of Whacking Day is coming, when live snakes get whacked with sticks, and Homer can hardly wait, but Lisa is horrified and persuades Barry White to help by attracting the snakes to safety.</desc>
+    <episode-num system="xmltv_ns">3.19.</episode-num>
+  </programme>
+  <programme start="20260928032500 +0000" stop="20260928035000 +0000" channel="Channel 4 HD.uk">
+    <title>The Simpsons</title>
+    <sub-title>Bart Sells His Soul</sub-title>
+    <desc>Bart sells his soul to Milhouse, who swaps it for some ALF pogs, and Moe re-launches the tavern as Uncle Moe's Family Feedbag.</desc>
+    <episode-num system="xmltv_ns">6.3.</episode-num>
+  </programme>
+  <programme start="20260928035000 +0000" stop="20260928035500 +0000" channel="Channel 4 HD.uk">
+    <title>Sunday Brunch</title>
+    <desc>Ben Shephard chats about new mountaineering challenge The Summit. Ruby Wax talks about her tour. Plus: Emmett J Scanlan, Mollie King, Matt Edmondson, Dr Sian Williams and Joshua Idehen.</desc>
+  </programme>
+  <programme start="20260928035500 +0000" stop="20260928045000 +0000" channel="Channel 4 HD.uk">
+    <title>Couples Come Dine with Me</title>
+    <sub-title>West London</sub-title>
+    <desc>In west London, Daniela and Stuart kick off by serving up an Italian spread at their first dinner party. On day two, Josh and Georgie plan a night of high quality food, and night three sees Manisha prepare a fusion menu of Indian and Western food.</desc>
+  </programme>
+  <programme start="20260928045000 +0000" stop="20260928053000 +0000" channel="Channel 4 HD.uk">
+    <title>Countdown</title>
+    <desc>Colin Murray, Rachel Riley and Susie Dent host, with Neil Delamere in Dictionary Corner, as contestants race against the clock to pit their wits against vowels, consonants and numbers.</desc>
+  </programme>
+  <programme start="20260928053000 +0000" stop="20260928055500 +0000" channel="Channel 4 HD.uk">
+    <title>The King of Queens</title>
+    <sub-title>Dreading Vows</sub-title>
+    <desc>Doug and Carrie decide to renew their vows, but nothing goes to plan, especially when Doug has trouble finding a chimp to act as his best man, and Arthur has second thoughts about giving them their wedding present.</desc>
+    <episode-num system="xmltv_ns">5.3.</episode-num>
+  </programme>
+  <programme start="20260928055500 +0000" stop="20260928062000 +0000" channel="Channel 4 HD.uk">
+    <title>The King of Queens</title>
+    <sub-title>Nocturnal Omission</sub-title>
+    <desc>Doug can't decide whether to tell Deacon that his estranged wife wants to get back together with him, and then Deacon announces that he's going to spend the weekend with a beautiful air stewardess.</desc>
+    <episode-num system="xmltv_ns">5.4.</episode-num>
+  </programme>
+  <programme start="20260928025000 +0000" stop="20260928040500 +0000" channel="ITV1 London HD.uk">
+    <title>Unwind with ITV</title>
+    <desc>A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.</desc>
+    <episode-num system="xmltv_ns">4.333.</episode-num>
+  </programme>
+  <programme start="20260928040500 +0000" stop="20260928050000 +0000" channel="ITV1 London HD.uk">
+    <title>Prue Leith's Cotswold Kitchen</title>
+    <sub-title>Gemma Collins</sub-title>
+    <desc>Prue is joined in her kitchen by reality TV star Gemma Collins, who cooks crispy lamb cutlets with a Parmesan crumb. Prue makes herbed salmon parcels with a pea purée and lemon mayo, while John heads off to see his favourite Tamworth pigs.</desc>
+    <episode-num system="xmltv_ns">2..</episode-num>
+  </programme>
+  <programme start="20260928050000 +0000" stop="20260928083000 +0000" channel="ITV1 London HD.uk">
+    <title>Good Morning Britain</title>
+    <desc>Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.</desc>
+    <episode-num system="xmltv_ns">12.190.</episode-num>
+  </programme>
+  <programme start="20260928083000 +0000" stop="20260928090000 +0000" channel="ITV1 London HD.uk">
+    <title>Lorraine</title>
+    <desc>Lorraine Kelly presents a breakfast programme which includes a topical mix of entertainment, discussion, celebrity interviews, the latest fashion, and more.</desc>
+    <episode-num system="xmltv_ns">13.105.</episode-num>
+  </programme>
+  <programme start="20260928090000 +0000" stop="20260928113000 +0000" channel="ITV1 London HD.uk">
+    <title>This Morning</title>
+    <desc>Featuring a generous morning dose of celebrity interviews, showbiz updates, lifestyle tips and everything else relevant to start the day in an upbeat manner.</desc>
+    <episode-num system="xmltv_ns">37.190.</episode-num>
+  </programme>
+  <programme start="20260928113000 +0000" stop="20260928123000 +0000" channel="ITV1 London HD.uk">
+    <title>Loose Women</title>
+    <desc>A rotating panel comprised of women from the entertainment and journalism worlds discuss issues from a female perspective, from politics and current affairs to all the latest gossip.</desc>
+    <episode-num system="xmltv_ns">29.110.</episode-num>
+  </programme>
+  <programme start="20260928123000 +0000" stop="20260928125500 +0000" channel="ITV1 London HD.uk">
+    <title>ITV Lunchtime News</title>
+    <desc>The latest headlines from around the world. Followed by a national weather forecast and all the news and weather in your region.</desc>
   </programme>
 </tv>

@@ -4,6 +4,7 @@ from __future__ import annotations
 import re
 import sys
 import xml.etree.ElementTree as ET
+from copy import deepcopy
 from datetime import datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -12,10 +13,18 @@ import requests
 from bs4 import BeautifulSoup
 
 OPEN_EPG_URL = "https://www.open-epg.com/files/lithuania1.xml"
+OPEN_EPG_UK_URL = "https://www.open-epg.com/files/unitedkingdom1.xml"
 RODO_URL = "https://rodo.lt/kanalai/lietuvos-ryto-tv"
 OFFICIAL_URL = "https://www.lietuvosryto.tv/tv-programa"
 
 CHANNEL_ID = "Lietuvos ryto televizija.lt"
+SATELLITE_CHANNELS = {
+    "BBC One HD": "BBC One England HD.uk",
+    "BBC Two HD": "BBC Two HD.uk",
+    "ITV1 HD": "ITV1 London HD.uk",
+    "Channel 4 HD": "Channel 4 HD.uk",
+    "Channel 5 HD": "Channel 5 HD.uk",
+}
 OUTPUT_FILE = "lt_epg.xml"
 
 HEADERS = {
@@ -239,6 +248,37 @@ def replace_rytas_programmes(root: ET.Element, schedule):
         root.append(p)
 
 
+def merge_uk_satellite_epg(root: ET.Element):
+    print("Downloading Open-EPG UK satellite channels ...")
+    r = requests.get(OPEN_EPG_UK_URL, headers=HEADERS, timeout=45)
+    r.raise_for_status()
+    uk_root = ET.fromstring(r.content)
+
+    wanted = set(SATELLITE_CHANNELS.values())
+    available = {ch.get("id") for ch in uk_root.findall("channel")}
+    missing = wanted - available
+    if missing:
+        raise RuntimeError(f"Missing UK XMLTV channels: {', '.join(sorted(missing))}")
+
+    for node in list(root):
+        if node.tag == "channel" and node.get("id") in wanted:
+            root.remove(node)
+        elif node.tag == "programme" and node.get("channel") in wanted:
+            root.remove(node)
+
+    channels = [ch for ch in uk_root.findall("channel") if ch.get("id") in wanted]
+    first_programme = next(
+        (i for i, node in enumerate(list(root)) if node.tag == "programme"), len(root)
+    )
+    for offset, channel in enumerate(channels):
+        root.insert(first_programme + offset, deepcopy(channel))
+
+    programmes = [p for p in uk_root.findall("programme") if p.get("channel") in wanted]
+    for programme in programmes:
+        root.append(deepcopy(programme))
+    print(f"UK satellite programmes added: {len(programmes)}")
+
+
 def main():
     print("Downloading Open-EPG Lithuania base XML ...")
     r = requests.get(OPEN_EPG_URL, headers=HEADERS, timeout=45)
@@ -249,6 +289,7 @@ def main():
 
     schedule = get_rytas_schedule()
     replace_rytas_programmes(root, schedule)
+    merge_uk_satellite_epg(root)
 
     ET.indent(root, space="  ")
     tree = ET.ElementTree(root)

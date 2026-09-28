@@ -4,6 +4,7 @@ This repository automatically builds `lt_epg.xml`.
 
 It uses:
 - Open-EPG Lithuania as the base XMLTV guide.
+- Open-EPG UK for BBC One HD, BBC Two HD, ITV1 HD, Channel 4 HD and Channel 5 HD.
 - rodo.lt for Lietuvos ryto TV where available.
 - the official Lietuvos ryto TV programme page as a fallback/supplement.
 
