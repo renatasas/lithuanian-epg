@@ -13,17 +13,17 @@ import requests
 from bs4 import BeautifulSoup
 
 OPEN_EPG_URL = "https://www.open-epg.com/files/lithuania1.xml"
-OPEN_EPG_UK_URL = "https://www.open-epg.com/files/unitedkingdom1.xml"
+OPEN_EPG_UK_URL = "https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml"
 RODO_URL = "https://rodo.lt/kanalai/lietuvos-ryto-tv"
 OFFICIAL_URL = "https://www.lietuvosryto.tv/tv-programa"
 
 CHANNEL_ID = "Lietuvos ryto televizija.lt"
 SATELLITE_CHANNELS = {
-    "BBC One HD": "BBC One England HD.uk",
-    "BBC Two HD": "BBC Two HD.uk",
-    "ITV1 HD": "ITV1 London HD.uk",
-    "Channel 4 HD": "Channel 4 HD.uk",
-    "Channel 5 HD": "Channel 5 HD.uk",
+    "BBC One HD": "BBCOneLondonHD.uk",
+    "BBC Two HD": "BBCTwoHD.uk",
+    "ITV1 HD": "ITV1London.uk",
+    "Channel 4 HD": "Channel4London.uk",
+    "Channel 5 HD": "5.uk",
 }
 OUTPUT_FILE = "lt_epg.xml"
 
@@ -249,7 +249,7 @@ def replace_rytas_programmes(root: ET.Element, schedule):
 
 
 def merge_uk_satellite_epg(root: ET.Element):
-    print("Downloading Open-EPG UK satellite channels ...")
+    print("Downloading Freeview-EPG UK satellite channels ...")
     r = requests.get(OPEN_EPG_UK_URL, headers=HEADERS, timeout=45)
     r.raise_for_status()
     uk_root = ET.fromstring(r.content)
