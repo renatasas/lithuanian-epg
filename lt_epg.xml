@@ -6610,7 +6610,9 @@
   <programme channel="5.uk" start="20261004052500 +0100" stop="20261004053500 +0100">
     <title lang="en">**Visually Signed** Mixmups</title>
     <desc lang="en">When Spin's pet ant dies, he takes to his duvet cave of sadness. Will Pockets and Giggle find "another way" to help Spin with his sadness? (VS)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8f5f2635-0990-4a20-a680-4d498bd992e1/cover" />
+    <icon src="https://images.metadata.sky.com/pd-image/cf302339-6383-3876-b4e0-8c1c9bb45c6e/cover" />
+    <episode-num system="xmltv_ns">0.5.0</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme channel="5.uk" start="20261004053500 +0100" stop="20261004054500 +0100">
     <title lang="en">**Visually Signed** Mixmups</title>
@@ -6799,8 +6801,8 @@
     <episode-num system="onscreen">S2E5</episode-num>
   </programme>
   <programme channel="5.uk" start="20261004140000 +0100" stop="20261004180000 +0100">
-    <title lang="en">Live: NFL Big Game Day</title>
-    <desc lang="en">...Washington Commanders. Nat Coombs, Osi Umenyiora and Ellie Evelyn bring the live action from Tottenham Hotspur Stadium as the NFL comes to London for the first of three regular season games.</desc>
+    <title lang="en">Live: NFL on 5: Indianapolis...</title>
+    <desc lang="en">...Colts @ Washington Commanders. Nat Coombs, Osi Umenyiora and Ellie Evelyn bring the live action from Tottenham Hotspur Stadium as the NFL comes to London for the first of three games.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7601d402-1b26-48a9-bcd7-93a39ae41d75/cover" />
   </programme>
   <programme channel="5.uk" start="20261004180000 +0100" stop="20261004185500 +0100">
@@ -6855,7 +6857,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260928093000 +0100" stop="20260928104500 +0100">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin Jones and Michelle Ackerley investigate the dangers of squishy dumpling toys and whether AI influencers can be trusted.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ee409a25-6ce1-4f6a-a27a-6623c6d69c33/cover" />
     <episode-num system="xmltv_ns">7.83.0</episode-num>
     <episode-num system="onscreen">S8E84</episode-num>
@@ -6939,7 +6941,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260928190000 +0100" stop="20260928193000 +0100">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Alex Jones and Roman Kemp are joined by Jeremy Allen White and Mikey Madison, stars of new film The Social Reckoning. They're alongside singer Will Young.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4d05a24b-0785-4e6a-adf1-7f0c0f5d4a04/cover" />
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260928193000 +0100" stop="20260928200000 +0100">
@@ -7812,7 +7814,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20261004131500 +0100" stop="20261004140000 +0100">
     <title lang="en">Songs of Praise: Young...</title>
-    <desc lang="en">...Chorister of the Year - Junior Semi-Final. The Junior semi-final of BBC Young Chorister of the Year, hosted by Aled Jones.</desc>
+    <desc lang="en">...Chorister of the Year - Junior Semi-Final. The junior semi-final of BBC Young Chorister of the Year, hosted by Aled Jones.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/116b30db-4a02-4cff-85d3-69ae970ed1ac/cover" />
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20261004140000 +0100" stop="20261004152500 +0100">
@@ -8745,8 +8747,8 @@
     <title lang="en">Homes Under the Hammer</title>
     <desc lang="en">In Bournemouth, Martin warns the buyer to beware, as a huge crack in a three-bedroom house requires urgent attention.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6fd46630-bd39-4288-8aef-d4bb98805780/cover" />
-    <episode-num system="xmltv_ns">26.19.0</episode-num>
-    <episode-num system="onscreen">S27E20</episode-num>
+    <episode-num system="xmltv_ns">26.10.0</episode-num>
+    <episode-num system="onscreen">S27E11</episode-num>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20261003140000 +0100" stop="20261003153500 +0100">
     <title lang="en">The Cockleshell Heroes</title>
@@ -8975,6 +8977,8 @@
     <title lang="en">Sunday Brunch</title>
     <desc lang="en">Some extra brunch as Tim Lovejoy and Simon Rimmer host the food and chat show.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/772a2293-1b61-432a-8f77-5b750352f74a/cover" />
+    <episode-num system="xmltv_ns">2025.33.0</episode-num>
+    <episode-num system="onscreen">S2026E34</episode-num>
   </programme>
   <programme channel="Channel4London.uk" start="20260928045500 +0100" stop="20260928055000 +0100">
     <title lang="en">Couples Come Dine with Me</title>
@@ -9128,7 +9132,7 @@
   </programme>
   <programme channel="Channel4London.uk" start="20260928190000 +0100" stop="20260928200000 +0100">
     <title lang="en">Channel 4 News</title>
-    <desc lang="en">Channel 4's flagship news programme. Including the weather.</desc>
+    <desc lang="en">The weekend's events at RAF Fairford continue to reverberate and dominate security discussions at Labour's annual conference. And reaction to the Chancellor's speech at conference.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fc4082ea-c8bc-4e98-9500-ff572c01433c/cover" />
   </programme>
   <programme channel="Channel4London.uk" start="20260928200000 +0100" stop="20260928210000 +0100">
@@ -9185,14 +9189,14 @@
     <episode-num system="onscreen">S4E2</episode-num>
   </programme>
   <programme channel="Channel4London.uk" start="20260929025000 +0100" stop="20260929034500 +0100">
-    <title lang="en">Couples Come Dine with Me</title>
-    <desc lang="en">In Cardiff, Jackie and Oasis tribute singer Degsy pay homage to Manchester. Jo and Vikki make their Indian menu from scratch. And will critical Chris and Bex's bickering blow their chances?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3d1e8846-9b3d-31b4-b81e-9b9c6a47573e/cover" />
-  </programme>
-  <programme channel="Channel4London.uk" start="20260929034500 +0100" stop="20260929044000 +0100">
     <title lang="en">Britain's Gaza Secrets Exposed</title>
     <desc lang="en">Dispatches: With access to unpublished internal Whitehall documents, Dispatches reveals how the UK government responded to alleged Israeli war crimes in Gaza.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/953a3362-3a84-41bd-a3c2-ea616c0dce23/cover" />
+  </programme>
+  <programme channel="Channel4London.uk" start="20260929034500 +0100" stop="20260929044000 +0100">
+    <title lang="en">Couples Come Dine with Me</title>
+    <desc lang="en">In Cardiff, Jackie and Oasis tribute singer Degsy pay homage to Manchester. Jo and Vikki make their Indian menu from scratch. And will critical Chris and Bex's bickering blow their chances?</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3d1e8846-9b3d-31b4-b81e-9b9c6a47573e/cover" />
   </programme>
   <programme channel="Channel4London.uk" start="20260929044000 +0100" stop="20260929055000 +0100">
     <title lang="en">Hollyoaks Omnibus</title>
@@ -9626,6 +9630,8 @@
     <title lang="en">Sunday Brunch</title>
     <desc lang="en">Some extra brunch as Tim Lovejoy and Simon Rimmer host the food and chat show.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/772a2293-1b61-432a-8f77-5b750352f74a/cover" />
+    <episode-num system="xmltv_ns">2025.33.0</episode-num>
+    <episode-num system="onscreen">S2026E34</episode-num>
   </programme>
   <programme channel="Channel4London.uk" start="20261001042500 +0100" stop="20261001045500 +0100">
     <title lang="en">A Place in the Sun</title>
@@ -9836,7 +9842,7 @@
   </programme>
   <programme channel="Channel4London.uk" start="20261002010500 +0100" stop="20261002014500 +0100">
     <title lang="en">The Great British Bake Off:...</title>
-    <desc lang="en">...Second Helpings: Jon Richardson and Judi Love welcome Nigella Lawson and long-time fan of the show Jonathan Ross to digest all the crumbs from Biscuit Week.</desc>
+    <desc lang="en">...Second Helpings: Jon Richardson, Judi Love, Nigella Lawson and Bake Off superfan Jonathan Ross digest all the crumbs from Biscuit Week.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b6c050b5-2676-42b4-bc3e-0abb6b6722b1/cover" />
     <episode-num system="xmltv_ns">0.1.0</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
@@ -10237,7 +10243,7 @@
   </programme>
   <programme channel="Channel4London.uk" start="20261003175000 +0100" stop="20261003183000 +0100">
     <title lang="en">The Great British Bake Off:...</title>
-    <desc lang="en">...Second Helpings: Jon Richardson and Judi Love welcome Nigella Lawson and long-time fan of the show Jonathan Ross to digest all the crumbs from Biscuit Week.</desc>
+    <desc lang="en">...Second Helpings: Jon Richardson, Judi Love, Nigella Lawson and Bake Off superfan Jonathan Ross digest all the crumbs from Biscuit Week.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b6c050b5-2676-42b4-bc3e-0abb6b6722b1/cover" />
     <episode-num system="xmltv_ns">0.1.0</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
@@ -10494,21 +10500,21 @@
   </programme>
   <programme channel="ITV1London.uk" start="20260928060000 +0100" stop="20260928093000 +0100">
     <title lang="en">Good Morning Britain</title>
-    <desc lang="en">News, current affairs and lively debate.</desc>
+    <desc lang="en">We're joined by Defence Secretary Wes Streeting as a bomb plot is foiled by a farmer. Plus, Kelsey Parker and new 'rainbow' baby River are in the studio.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d4cda4c2-2dc8-4824-a8c8-e3b95c1e75d6/cover" />
     <episode-num system="xmltv_ns">12.190.0</episode-num>
     <episode-num system="onscreen">S13E191</episode-num>
   </programme>
   <programme channel="ITV1London.uk" start="20260928093000 +0100" stop="20260928100000 +0100">
     <title lang="en">Lorraine</title>
-    <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+    <desc lang="en">Before heading out on his latest adventure, national treasure Sir Michael Palin's in the studio. And Ross King has the latest showbiz news from LA.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/90fb254e-a980-41ce-8e87-2d23146df609/cover" />
     <episode-num system="xmltv_ns">13.105.0</episode-num>
     <episode-num system="onscreen">S14E106</episode-num>
   </programme>
   <programme channel="ITV1London.uk" start="20260928100000 +0100" stop="20260928123000 +0100">
     <title lang="en">This Morning</title>
-    <desc lang="en">Magazine show with news and topical items, celebrity guests, expert advice, real-life stories, competitions and a mix of cookery, health, beauty, lifestyle and more.</desc>
+    <desc lang="en">Ben and Cat chat to reality star Pete Wicks, Sian Welby brings us all the latest showbiz news, and Nadine Baggott is in the studio with the top beauty advent calendars.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bc2878fa-713c-44e4-8531-36e6b1ac29fe/cover" />
     <episode-num system="xmltv_ns">37.190.0</episode-num>
     <episode-num system="onscreen">S38E191</episode-num>
@@ -10597,19 +10603,19 @@
     <episode-num system="xmltv_ns">0.3.0</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
   </programme>
-  <programme channel="ITV1London.uk" start="20260928220000 +0100" stop="20260928223000 +0100">
+  <programme channel="ITV1London.uk" start="20260928220000 +0100" stop="20260928223500 +0100">
     <title lang="en">ITV News at Ten</title>
     <desc lang="en">ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b4c46793-b01e-465e-9122-a292f809fab9/cover" />
   </programme>
-  <programme channel="ITV1London.uk" start="20260928223000 +0100" stop="20260928224500 +0100">
+  <programme channel="ITV1London.uk" start="20260928223500 +0100" stop="20260928224500 +0100">
     <title lang="en">ITV News London</title>
     <desc lang="en">The latest news and weather from London and the South East.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b3dec3a4-18b3-4264-b1cf-7a792627e514/cover" />
   </programme>
   <programme channel="ITV1London.uk" start="20260928224500 +0100" stop="20260928233000 +0100">
     <title lang="en">New: Peston</title>
-    <desc lang="en">Political interview programme hosted by the ITV News Political Editor Robert Peston, who provides viewers with an intelligent and lively approach to politics.</desc>
+    <desc lang="en">Robert and Pippa are live from Labour Party Conference in Liverpool with the Chancellor John Healey, Jess Phillips, Michael Gove and Dale Vince.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2c0cb888-50da-4126-b6f8-027ec39c3da6/cover" />
     <premiere />
     <episode-num system="xmltv_ns">11.23.0</episode-num>
