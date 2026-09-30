@@ -4,8 +4,7 @@ from __future__ import annotations
 import re
 import sys
 import xml.etree.ElementTree as ET
-from copy import deepcopy
-from datetime import datetime, timedelta
+from datetime import date, datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -13,17 +12,26 @@ import requests
 from bs4 import BeautifulSoup
 
 OPEN_EPG_URL = "https://www.open-epg.com/files/lithuania1.xml"
-OPEN_EPG_UK_URL = "https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml"
 RODO_URL = "https://rodo.lt/kanalai/lietuvos-ryto-tv"
 OFFICIAL_URL = "https://www.lietuvosryto.tv/tv-programa"
+TV3_GUIDE_URL = "https://www.tv3.lt/programos"
 
 CHANNEL_ID = "Lietuvos ryto televizija.lt"
-SATELLITE_CHANNELS = {
-    "BBC One HD": "BBCOneLondonHD.uk",
-    "BBC Two HD": "BBCTwoHD.uk",
-    "ITV1 HD": "ITV1London.uk",
-    "Channel 4 HD": "Channel4London.uk",
-    "Channel 5 HD": "5.uk",
+TV3_CHANNELS = {
+    "LRT": "LRT Televizija.lt",
+    "LRT Plius": "LRT PLIUS.lt",
+    "LNK": "LNK.lt",
+    "TV3": "TV3.lt",
+    "Lietuvos Rytas TV": "Lietuvos ryto televizija.lt",
+    "Info TV": "Info TV.lt",
+    "BTV": "BTV.lt",
+    "TV6": "TV6.lt",
+    "TV8": "TV8.lt",
+    "Go3 Sport 1": "GO3 Sport 1 (LT).lt",
+    "Go3 Sport 2": "GO3 Sport 2 (LT).lt",
+    "2tv": "2TV.lt",
+    "TV1": "TV1.lt",
+    "Sport 1": "Sport1.lt",
 }
 OUTPUT_FILE = "lt_epg.xml"
 
@@ -248,35 +256,66 @@ def replace_rytas_programmes(root: ET.Element, schedule):
         root.append(p)
 
 
-def merge_uk_satellite_epg(root: ET.Element):
-    print("Downloading Freeview-EPG UK satellite channels ...")
-    r = requests.get(OPEN_EPG_UK_URL, headers=HEADERS, timeout=45)
-    r.raise_for_status()
-    uk_root = ET.fromstring(r.content)
+def get_tv3_schedules(days: int = 7):
+    schedules = {channel_id: [] for channel_id in TV3_CHANNELS.values()}
+    for offset in range(days):
+        guide_date = date.today() + timedelta(days=offset)
+        print(f"Fetching TV3 guide for {guide_date} ...")
+        soup = BeautifulSoup(
+            get_text(f"{TV3_GUIDE_URL}?d={guide_date.isoformat()}"), "html.parser"
+        )
+        for block in soup.select("div.programsContainer > div.program"):
+            name_el = block.select_one(".programTopInfo .channelTitle")
+            if not name_el:
+                continue
+            channel_id = TV3_CHANNELS.get(name_el.get_text(" ", strip=True))
+            if not channel_id:
+                continue
+            for item in block.select(".programsList .programInfo"):
+                time_el = item.select_one(".startTime")
+                title_el = item.select_one(".programTitle")
+                if not time_el or not title_el:
+                    continue
+                match = re.fullmatch(r"(\d{1,2}):(\d{2})", time_el.get_text(strip=True))
+                if not match:
+                    continue
+                start = datetime.combine(guide_date, datetime.min.time()).replace(
+                    hour=int(match.group(1)), minute=int(match.group(2))
+                )
+                title = title_el.get_text(" ", strip=True)
+                episode_el = item.select_one(".episodeNumber")
+                if episode_el and episode_el.get_text(" ", strip=True):
+                    title = f"{title} {episode_el.get_text(' ', strip=True)}"
+                schedules[channel_id].append((start, title))
 
-    wanted = set(SATELLITE_CHANNELS.values())
-    available = {ch.get("id") for ch in uk_root.findall("channel")}
-    missing = wanted - available
+    missing = [channel_id for channel_id, entries in schedules.items() if not entries]
     if missing:
-        raise RuntimeError(f"Missing UK XMLTV channels: {', '.join(sorted(missing))}")
+        raise RuntimeError(f"TV3 guide has no entries for: {', '.join(missing)}")
+    return {channel_id: dedupe_and_sort(entries) for channel_id, entries in schedules.items()}
 
-    for node in list(root):
-        if node.tag == "channel" and node.get("id") in wanted:
-            root.remove(node)
-        elif node.tag == "programme" and node.get("channel") in wanted:
-            root.remove(node)
 
-    channels = [ch for ch in uk_root.findall("channel") if ch.get("id") in wanted]
-    first_programme = next(
-        (i for i, node in enumerate(list(root)) if node.tag == "programme"), len(root)
-    )
-    for offset, channel in enumerate(channels):
-        root.insert(first_programme + offset, deepcopy(channel))
+def replace_tv3_programmes(root: ET.Element, schedules):
+    wanted = set(schedules)
+    for programme in list(root.findall("programme")):
+        if programme.get("channel") in wanted:
+            root.remove(programme)
 
-    programmes = [p for p in uk_root.findall("programme") if p.get("channel") in wanted]
-    for programme in programmes:
-        root.append(deepcopy(programme))
-    print(f"UK satellite programmes added: {len(programmes)}")
+    for channel_id, schedule in schedules.items():
+        for index, (start_dt, title) in enumerate(schedule):
+            stop_dt = schedule[index + 1][0] if index + 1 < len(schedule) else start_dt + timedelta(hours=1)
+            if stop_dt <= start_dt or stop_dt - start_dt > timedelta(hours=8):
+                stop_dt = start_dt + timedelta(hours=1)
+            programme = ET.Element(
+                "programme",
+                {
+                    "start": xmltv_stamp(start_dt),
+                    "stop": xmltv_stamp(stop_dt),
+                    "channel": channel_id,
+                },
+            )
+            title_el = ET.SubElement(programme, "title", {"lang": "lt"})
+            title_el.text = title
+            root.append(programme)
 
 
 def main():
@@ -287,18 +326,19 @@ def main():
     root = ET.fromstring(r.content)
     ensure_channel(root)
 
-    schedule = get_rytas_schedule()
-    replace_rytas_programmes(root, schedule)
-    merge_uk_satellite_epg(root)
+    schedules = get_tv3_schedules()
+    replace_tv3_programmes(root, schedules)
 
     ET.indent(root, space="  ")
     tree = ET.ElementTree(root)
     tree.write(OUTPUT_FILE, encoding="utf-8", xml_declaration=True)
 
     print(f"Wrote {OUTPUT_FILE}")
-    print(f"Lietuvos ryto TV programmes added: {len(schedule)}")
-    print(f"First: {schedule[0][0]} - {schedule[0][1]}")
-    print(f"Last : {schedule[-1][0]} - {schedule[-1][1]}")
+    for channel_id, schedule in schedules.items():
+        print(
+            f"{channel_id}: {len(schedule)} programmes, "
+            f"{schedule[0][0]} to {schedule[-1][0]}"
+        )
 
 
 if __name__ == "__main__":
