@@ -2843,7 +2843,7 @@
     <title lang="lt">Rimti reikalai 9/20</title>
   </programme>
   <programme start="20261001200000 +0300" stop="20261001210000 +0300" channel="LNK.lt">
-    <title lang="lt">Už ar prieš?</title>
+    <title lang="lt">Už ar prieš? 2/5</title>
   </programme>
   <programme start="20261001210000 +0300" stop="20261001213000 +0300" channel="LNK.lt">
     <title lang="lt">Ne visi namie 20</title>
@@ -2966,7 +2966,7 @@
     <title lang="lt">Žinios. Sportas. Orai</title>
   </programme>
   <programme start="20261003193000 +0300" stop="20261003220000 +0300" channel="LNK.lt">
-    <title lang="lt">Lietuvos balsas</title>
+    <title lang="lt">Lietuvos balsas 13/4</title>
   </programme>
   <programme start="20261003220000 +0300" stop="20261004000500 +0300" channel="LNK.lt">
     <title lang="lt">Žudikų žaidimai</title>
@@ -3323,7 +3323,7 @@
     <title lang="lt">Farai 20/5</title>
   </programme>
   <programme start="20261001211500 +0300" stop="20261001213000 +0300" channel="TV3.lt">
-    <title lang="lt">GoŽalgiris 2</title>
+    <title lang="lt">GoŽalgiris 2/2</title>
   </programme>
   <programme start="20261001213000 +0300" stop="20261001234500 +0300" channel="TV3.lt">
     <title lang="lt">Eurolygos rungtynės. Paryžiaus „Paris Basketball“ - Kauno „Žalgiris“</title>
@@ -4544,7 +4544,7 @@
     <title lang="lt">Šeškinės 20</title>
   </programme>
   <programme start="20261002143000 +0300" stop="20261002153000 +0300" channel="Info TV.lt">
-    <title lang="lt">Už ar prieš?</title>
+    <title lang="lt">Už ar prieš? 2/5</title>
   </programme>
   <programme start="20261002153000 +0300" stop="20261002160000 +0300" channel="Info TV.lt">
     <title lang="lt">KK2</title>
@@ -4631,7 +4631,7 @@
     <title lang="lt">Bus visko</title>
   </programme>
   <programme start="20261003120000 +0300" stop="20261003130000 +0300" channel="Info TV.lt">
-    <title lang="lt">Už ar prieš?</title>
+    <title lang="lt">Už ar prieš? 2/5</title>
   </programme>
   <programme start="20261003130000 +0300" stop="20261003143000 +0300" channel="Info TV.lt">
     <title lang="lt">Labas vakaras, Lietuva</title>
@@ -4757,7 +4757,7 @@
     <title lang="lt">Žinios</title>
   </programme>
   <programme start="20261004210000 +0300" stop="20261004220000 +0300" channel="Info TV.lt">
-    <title lang="lt">Už ar prieš?</title>
+    <title lang="lt">Už ar prieš? 2/5</title>
   </programme>
   <programme start="20261004220000 +0300" stop="20261004223000 +0300" channel="Info TV.lt">
     <title lang="lt">Minutė iki vidurnakčio</title>
@@ -6530,7 +6530,7 @@
     <title lang="lt">Europos taurė. "Riga Zelli" - "Derthona" 3</title>
   </programme>
   <programme start="20261001070000 +0300" stop="20261001091000 +0300" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">ATP 250 Hangzhou. Singles. Final 12</title>
+    <title lang="lt">ATP 250 Hangzhou 12</title>
   </programme>
   <programme start="20261001091000 +0300" stop="20261001112500 +0300" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">ATP 250 Chengdu 12</title>
@@ -6568,13 +6568,13 @@
   <programme start="20261002022900 +0300" stop="20261002030000 +0300" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Tenisas: ATP turas šią savaitę 38</title>
   </programme>
-  <programme start="20261002030000 +0300" stop="20261002050000 +0300" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261002030000 +0300" stop="20261002042000 +0300" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Fastzone 25</title>
   </programme>
-  <programme start="20261002050000 +0300" stop="20261002070000 +0300" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261002042000 +0300" stop="20261002063400 +0300" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Eurolygos rungtynės. "Maccabi" - "Besiktas" 13</title>
   </programme>
-  <programme start="20261002070000 +0300" stop="20261002090000 +0300" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261002063400 +0300" stop="20261002090000 +0300" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Šveicarijos lyga 11</title>
   </programme>
   <programme start="20261002090000 +0300" stop="20261002100000 +0300" channel="GO3 Sport 1 (LT).lt">
@@ -6586,10 +6586,10 @@
   <programme start="20261002111000 +0300" stop="20261002120000 +0300" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">WRC 259</title>
   </programme>
-  <programme start="20261002120000 +0300" stop="20261002140000 +0300" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261002120000 +0300" stop="20261002141500 +0300" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Šveicarijos lyga 12</title>
   </programme>
-  <programme start="20261002140000 +0300" stop="20261002153000 +0300" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261002141500 +0300" stop="20261002153000 +0300" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">MotoGP 146</title>
   </programme>
   <programme start="20261002153000 +0300" stop="20261002163000 +0300" channel="GO3 Sport 1 (LT).lt">
@@ -6610,10 +6610,10 @@
   <programme start="20261002210000 +0300" stop="20261002231500 +0300" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Eurolygos rungtynės. "Panathinaikos" - "Maccabi" 19</title>
   </programme>
-  <programme start="20261002231500 +0300" stop="20261003011500 +0300" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261002231500 +0300" stop="20261003012500 +0300" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Europos taurė. "Riga Zelli" - "Derthona" 3</title>
   </programme>
-  <programme start="20261003011500 +0300" stop="20261003040000 +0300" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261003012500 +0300" stop="20261003040000 +0300" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Europos taurė. "Lietkabelis" - "Bosna" 4</title>
   </programme>
   <programme start="20261003040000 +0300" stop="20261003080000 +0300" channel="GO3 Sport 1 (LT).lt">
@@ -6659,15 +6659,15 @@
     <title lang="lt">Tenisas: ATP turas šią savaitę 38</title>
   </programme>
   <programme start="20261003234500 +0300" stop="20261004014500 +0300" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">ATP 250 Hangzhou. Singles. Final 12</title>
+    <title lang="lt">ATP 250 Hangzhou 12</title>
   </programme>
   <programme start="20261004014500 +0300" stop="20261004030000 +0300" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Mišrių kovos menų dvikovos 10</title>
   </programme>
-  <programme start="20261004030000 +0300" stop="20261004070000 +0300" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261004030000 +0300" stop="20261004065000 +0300" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">UFC 166</title>
   </programme>
-  <programme start="20261004070000 +0300" stop="20261004090000 +0300" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261004065000 +0300" stop="20261004090000 +0300" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Eurolygos rungtynės. "Virtus" - "Olympiacos" 16</title>
   </programme>
   <programme start="20261004090000 +0300" stop="20261004093000 +0300" channel="GO3 Sport 1 (LT).lt">
@@ -6679,17 +6679,17 @@
   <programme start="20261004103000 +0300" stop="20261004110000 +0300" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">GP Confidential 17</title>
   </programme>
-  <programme start="20261004110000 +0300" stop="20261004120000 +0300" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261004110000 +0300" stop="20261004120500 +0300" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">WRC</title>
   </programme>
-  <programme start="20261004120000 +0300" stop="20261004124000 +0300" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261004120500 +0300" stop="20261004124000 +0300" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Už kadro. MXGP 107</title>
   </programme>
   <programme start="20261004124000 +0300" stop="20261004133500 +0300" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">WRC 271</title>
   </programme>
   <programme start="20261004133500 +0300" stop="20261004150000 +0300" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">MotoGP. Japan GP. MotoGP Race 154</title>
+    <title lang="lt">MotoGP 154</title>
   </programme>
   <programme start="20261004150000 +0300" stop="20261004163000 +0300" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">WRC</title>
@@ -6892,34 +6892,34 @@
   <programme start="20261002085500 +0300" stop="20261002100500 +0300" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">MotoGP 146</title>
   </programme>
-  <programme start="20261002100500 +0300" stop="20261002120500 +0300" channel="GO3 Sport 2 (LT).lt">
+  <programme start="20261002100500 +0300" stop="20261002121500 +0300" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Europos taurė. "Riga Zelli" - "Derthona" 3</title>
   </programme>
-  <programme start="20261002120500 +0300" stop="20261002140500 +0300" channel="GO3 Sport 2 (LT).lt">
+  <programme start="20261002121500 +0300" stop="20261002141500 +0300" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Eurolygos rungtynės. "Virtus" - "Olympiacos" 16</title>
   </programme>
-  <programme start="20261002140500 +0300" stop="20261002145500 +0300" channel="GO3 Sport 2 (LT).lt">
+  <programme start="20261002141500 +0300" stop="20261002144500 +0300" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Mišrių kovos menų dvikovos 10</title>
   </programme>
-  <programme start="20261002145500 +0300" stop="20261002165500 +0300" channel="GO3 Sport 2 (LT).lt">
+  <programme start="20261002144500 +0300" stop="20261002171400 +0300" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Šveicarijos lyga 11</title>
   </programme>
-  <programme start="20261002165500 +0300" stop="20261002185500 +0300" channel="GO3 Sport 2 (LT).lt">
+  <programme start="20261002171400 +0300" stop="20261002191000 +0300" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Šveicarijos lyga 12</title>
   </programme>
-  <programme start="20261002185500 +0300" stop="20261002211500 +0300" channel="GO3 Sport 2 (LT).lt">
+  <programme start="20261002191000 +0300" stop="20261002211500 +0300" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Eurolygos rungtynės. Paryžiaus „Paris Basketball“ - Kauno „Žalgiris“</title>
   </programme>
   <programme start="20261002211500 +0300" stop="20261002233000 +0300" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Eurolygos rungtynės. "Baskonia" - "Olimpia Milano" 20</title>
   </programme>
-  <programme start="20261002233000 +0300" stop="20261003022000 +0300" channel="GO3 Sport 2 (LT).lt">
+  <programme start="20261002233000 +0300" stop="20261003022500 +0300" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">One Championship 221</title>
   </programme>
-  <programme start="20261003022000 +0300" stop="20261003031000 +0300" channel="GO3 Sport 2 (LT).lt">
+  <programme start="20261003022500 +0300" stop="20261003031500 +0300" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">WRC 261</title>
   </programme>
-  <programme start="20261003031000 +0300" stop="20261003040500 +0300" channel="GO3 Sport 2 (LT).lt">
+  <programme start="20261003031500 +0300" stop="20261003040500 +0300" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">WRC</title>
   </programme>
   <programme start="20261003040500 +0300" stop="20261003044000 +0300" channel="GO3 Sport 2 (LT).lt">
@@ -6934,8 +6934,11 @@
   <programme start="20261003063500 +0300" stop="20261003073000 +0300" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">MotoGP 149</title>
   </programme>
-  <programme start="20261003073000 +0300" stop="20261003085500 +0300" channel="GO3 Sport 2 (LT).lt">
+  <programme start="20261003073000 +0300" stop="20261003083500 +0300" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">MotoGP 150</title>
+  </programme>
+  <programme start="20261003083500 +0300" stop="20261003085500 +0300" channel="GO3 Sport 2 (LT).lt">
+    <title lang="lt">Penktasis ketvirtis 1</title>
   </programme>
   <programme start="20261003085500 +0300" stop="20261003100000 +0300" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">MotoGP 151</title>
@@ -6971,7 +6974,7 @@
     <title lang="lt">WNBA 15</title>
   </programme>
   <programme start="20261004030500 +0300" stop="20261004040500 +0300" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">WRC 254</title>
+    <title lang="lt">Dviračių sportas: Kroatijos turas 9</title>
   </programme>
   <programme start="20261004040500 +0300" stop="20261004045000 +0300" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">GP Confidential 17</title>
@@ -6980,7 +6983,7 @@
     <title lang="lt">MotoGP 152</title>
   </programme>
   <programme start="20261004074500 +0300" stop="20261004091000 +0300" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">MotoGP. Japan GP. MotoGP Race 154</title>
+    <title lang="lt">MotoGP 154</title>
   </programme>
   <programme start="20261004091000 +0300" stop="20261004120000 +0300" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Speedway Grand Prix lenktynės 14</title>
@@ -6995,7 +6998,7 @@
     <title lang="lt">GP Confidential 17</title>
   </programme>
   <programme start="20261004180000 +0300" stop="20261004185500 +0300" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">Fastzone 25</title>
+    <title lang="lt">Dviračių sportas: Kroatijos turas 9</title>
   </programme>
   <programme start="20261004185500 +0300" stop="20261004210000 +0300" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Krepšinis: ACB league 2023/24. "Baskonia" - "Girona" 5</title>
@@ -7004,13 +7007,13 @@
     <title lang="lt">Šveicarijos lyga 13</title>
   </programme>
   <programme start="20261004230000 +0300" stop="20261005000000 +0300" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">MXGP. MXoN. Race 1 108</title>
+    <title lang="lt">MXGP 108</title>
   </programme>
   <programme start="20261005000000 +0300" stop="20261005010000 +0300" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">MXGP. MXoN. Race 2 109</title>
+    <title lang="lt">MXGP 109</title>
   </programme>
   <programme start="20261005010000 +0300" stop="20261005022500 +0300" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">MXGP. MXoN. Race 3 110</title>
+    <title lang="lt">MXGP 110</title>
   </programme>
   <programme start="20261005022500 +0300" stop="20261005050000 +0300" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Eurolygos rungtynės. "Panathinaikos" - "Maccabi" 19</title>
