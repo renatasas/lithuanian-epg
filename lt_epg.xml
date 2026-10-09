@@ -14713,11 +14713,11 @@
   <programme start="20261014183100 +0300" stop="20261014193100 +0300" channel="LRT Televizija.lt">
     <title lang="lt">Svarbi valanda 6/180</title>
   </programme>
-  <programme start="20261014193100 +0300" stop="20261014203100 +0300" channel="LRT Televizija.lt">
+  <programme start="20261014193100 +0300" stop="20261014203000 +0300" channel="LRT Televizija.lt">
     <title lang="lt">Ne taip paprasta 1/7</title>
   </programme>
-  <programme start="20261014203100 +0300" stop="20261014213100 +0300" channel="LRT Televizija.lt">
-    <title lang="lt">Panorama 7/287</title>
+  <programme start="20261014203000 +0300" stop="20261014213100 +0300" channel="LRT Televizija.lt">
+    <title lang="lt">Panorama 7/216</title>
   </programme>
   <programme start="20261014213100 +0300" stop="20261014223100 +0300" channel="LRT Televizija.lt">
     <title lang="lt">Tai kur toliau? 6/7</title>
@@ -15536,7 +15536,7 @@
     <title lang="lt">Žinios. Sportas. Orai</title>
   </programme>
   <programme start="20261009193000 +0300" stop="20261009210000 +0300" channel="LNK.lt">
-    <title lang="lt">Muzikos detektyvai</title>
+    <title lang="lt">Muzikos detektyvai 2/5</title>
   </programme>
   <programme start="20261009210000 +0300" stop="20261009231500 +0300" channel="LNK.lt">
     <title lang="lt">Miegantys šunys</title>
@@ -16025,7 +16025,7 @@
     <title lang="lt">Slaptas augintinių gyvenimas 2</title>
   </programme>
   <programme start="20261009210000 +0300" stop="20261009211500 +0300" channel="TV3.lt">
-    <title lang="lt">GoŽalgiris 3</title>
+    <title lang="lt">GoŽalgiris 2/3</title>
   </programme>
   <programme start="20261009211500 +0300" stop="20261009233000 +0300" channel="TV3.lt">
     <title lang="lt">Eurolygos rungtynės. Barselonos „FC Barcelona“ - Kauno „Žalgiris“</title>
@@ -17261,7 +17261,7 @@
     <title lang="lt">Šeškinės 20 6/6</title>
   </programme>
   <programme start="20261010160000 +0300" stop="20261010173000 +0300" channel="Info TV.lt">
-    <title lang="lt">Muzikos detektyvai</title>
+    <title lang="lt">Muzikos detektyvai 2/5</title>
   </programme>
   <programme start="20261010173000 +0300" stop="20261010180000 +0300" channel="Info TV.lt">
     <title lang="lt">KK2</title>
@@ -17348,7 +17348,7 @@
     <title lang="lt">Senovės istorijos top 10 1/6</title>
   </programme>
   <programme start="20261011133000 +0300" stop="20261011150000 +0300" channel="Info TV.lt">
-    <title lang="lt">Muzikos detektyvai</title>
+    <title lang="lt">Muzikos detektyvai 2/5</title>
   </programme>
   <programme start="20261011150000 +0300" stop="20261011160000 +0300" channel="Info TV.lt">
     <title lang="lt">Šeškinės 20 6/6</title>
@@ -17390,7 +17390,7 @@
     <title lang="lt">Galiūnai 2</title>
   </programme>
   <programme start="20261012010000 +0300" stop="20261012021500 +0300" channel="Info TV.lt">
-    <title lang="lt">Muzikos detektyvai</title>
+    <title lang="lt">Muzikos detektyvai 2/5</title>
   </programme>
   <programme start="20261012021500 +0300" stop="20261012031000 +0300" channel="Info TV.lt">
     <title lang="lt">Bus visko</title>
@@ -17438,7 +17438,7 @@
     <title lang="lt">Šeškinės 20</title>
   </programme>
   <programme start="20261012143000 +0300" stop="20261012160000 +0300" channel="Info TV.lt">
-    <title lang="lt">Muzikos detektyvai</title>
+    <title lang="lt">Muzikos detektyvai 2/5</title>
   </programme>
   <programme start="20261012160000 +0300" stop="20261012170000 +0300" channel="Info TV.lt">
     <title lang="lt">Bučiuoju. Rūta 16</title>
