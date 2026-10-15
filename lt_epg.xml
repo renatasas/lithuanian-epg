@@ -14923,7 +14923,7 @@
     <title lang="lt">Šaunusis septynetas</title>
   </programme>
   <programme start="20261019035500 +0300" stop="20261019054000 +0300" channel="LRT PLIUS.lt">
-    <title lang="lt">Luiza Violet</title>
+    <title lang="lt">Panelė Violeta</title>
   </programme>
   <programme start="20261019054000 +0300" stop="20261019060000 +0300" channel="LRT PLIUS.lt">
     <title lang="lt">Išsaugojome kalbą</title>
@@ -15235,7 +15235,7 @@
     <title lang="lt">Rimti reikalai 9/28</title>
   </programme>
   <programme start="20261015200000 +0300" stop="20261015210000 +0300" channel="LNK.lt">
-    <title lang="lt">Už ar prieš?</title>
+    <title lang="lt">Už ar prieš? 2/7</title>
   </programme>
   <programme start="20261015210000 +0300" stop="20261015213000 +0300" channel="LNK.lt">
     <title lang="lt">Ne visi namie 28</title>
@@ -15370,7 +15370,7 @@
     <title lang="lt">Žinios. Sportas. Orai</title>
   </programme>
   <programme start="20261017193000 +0300" stop="20261017220000 +0300" channel="LNK.lt">
-    <title lang="lt">Lietuvos balsas</title>
+    <title lang="lt">Lietuvos balsas 13/6</title>
   </programme>
   <programme start="20261017220000 +0300" stop="20261018001500 +0300" channel="LNK.lt">
     <title lang="lt">Godzila ir Kongas. Nauja imperija</title>
@@ -15460,7 +15460,7 @@
     <title lang="lt">Žinios</title>
   </programme>
   <programme start="20261019163000 +0300" stop="20261019170000 +0300" channel="LNK.lt">
-    <title lang="lt">TAIP ir NE</title>
+    <title lang="lt">TAIP ir NE 1/1</title>
   </programme>
   <programme start="20261019170000 +0300" stop="20261019173500 +0300" channel="LNK.lt">
     <title lang="lt">Pas Editą</title>
@@ -15576,8 +15576,77 @@
   <programme start="20261021031500 +0300" stop="20261021040500 +0300" channel="LNK.lt">
     <title lang="lt">Šviežias kraujas 1/10</title>
   </programme>
-  <programme start="20261021040500 +0300" stop="20261021050500 +0300" channel="LNK.lt">
+  <programme start="20261021040500 +0300" stop="20261021060000 +0300" channel="LNK.lt">
     <title lang="lt">Pertrauka</title>
+  </programme>
+  <programme start="20261021060000 +0300" stop="20261021063000 +0300" channel="LNK.lt">
+    <title lang="lt">Šaunusis Skūbis-Dū 3</title>
+  </programme>
+  <programme start="20261021063000 +0300" stop="20261021070000 +0300" channel="LNK.lt">
+    <title lang="lt">Tomo ir Džerio nuotykiai 1</title>
+  </programme>
+  <programme start="20261021070000 +0300" stop="20261021073000 +0300" channel="LNK.lt">
+    <title lang="lt">Ne visi namie 10</title>
+  </programme>
+  <programme start="20261021073000 +0300" stop="20261021080000 +0300" channel="LNK.lt">
+    <title lang="lt">Rimti reikalai 9/10</title>
+  </programme>
+  <programme start="20261021080000 +0300" stop="20261021090000 +0300" channel="LNK.lt">
+    <title lang="lt">Nuo... Iki... 32/7</title>
+  </programme>
+  <programme start="20261021090000 +0300" stop="20261021100000 +0300" channel="LNK.lt">
+    <title lang="lt">Šviežias kraujas 1/11</title>
+  </programme>
+  <programme start="20261021100000 +0300" stop="20261021103000 +0300" channel="LNK.lt">
+    <title lang="lt">Man reikia meilės 35</title>
+  </programme>
+  <programme start="20261021103000 +0300" stop="20261021110000 +0300" channel="LNK.lt">
+    <title lang="lt">Man reikia meilės 36</title>
+  </programme>
+  <programme start="20261021110000 +0300" stop="20261021120000 +0300" channel="LNK.lt">
+    <title lang="lt">Tolimas miestas 2/85</title>
+  </programme>
+  <programme start="20261021120000 +0300" stop="20261021130000 +0300" channel="LNK.lt">
+    <title lang="lt">Tolimas miestas 2/86</title>
+  </programme>
+  <programme start="20261021130000 +0300" stop="20261021140000 +0300" channel="LNK.lt">
+    <title lang="lt">Turtuolė varguolė 7/8</title>
+  </programme>
+  <programme start="20261021140000 +0300" stop="20261021150000 +0300" channel="LNK.lt">
+    <title lang="lt">Meilė iš pirmo žvilgsnio 2/8</title>
+  </programme>
+  <programme start="20261021150000 +0300" stop="20261021160000 +0300" channel="LNK.lt">
+    <title lang="lt">Nakties pasaka 105</title>
+  </programme>
+  <programme start="20261021160000 +0300" stop="20261021163000 +0300" channel="LNK.lt">
+    <title lang="lt">Žinios</title>
+  </programme>
+  <programme start="20261021163000 +0300" stop="20261021170000 +0300" channel="LNK.lt">
+    <title lang="lt">TAIP ir NE</title>
+  </programme>
+  <programme start="20261021170000 +0300" stop="20261021173500 +0300" channel="LNK.lt">
+    <title lang="lt">Pas Editą</title>
+  </programme>
+  <programme start="20261021173500 +0300" stop="20261021183000 +0300" channel="LNK.lt">
+    <title lang="lt">Labas vakaras, Lietuva</title>
+  </programme>
+  <programme start="20261021183000 +0300" stop="20261021193000 +0300" channel="LNK.lt">
+    <title lang="lt">Žinios. Sportas. Orai</title>
+  </programme>
+  <programme start="20261021193000 +0300" stop="20261021200000 +0300" channel="LNK.lt">
+    <title lang="lt">Rimti reikalai 9/31</title>
+  </programme>
+  <programme start="20261021200000 +0300" stop="20261021210000 +0300" channel="LNK.lt">
+    <title lang="lt">Šeškinės 20</title>
+  </programme>
+  <programme start="20261021210000 +0300" stop="20261021213000 +0300" channel="LNK.lt">
+    <title lang="lt">Ne visi namie 31</title>
+  </programme>
+  <programme start="20261021213000 +0300" stop="20261021223000 +0300" channel="LNK.lt">
+    <title lang="lt">Žinios. Sportas. Orai</title>
+  </programme>
+  <programme start="20261021223000 +0300" stop="20261021233000 +0300" channel="LNK.lt">
+    <title lang="lt">Išlikimas</title>
   </programme>
   <programme start="20261015005500 +0300" stop="20261015015500 +0300" channel="TV3.lt">
     <title lang="lt">Liepsnojanti Čikaga 5/13</title>
@@ -16888,7 +16957,7 @@
     <title lang="lt">Šeškinės 20</title>
   </programme>
   <programme start="20261016143000 +0300" stop="20261016153000 +0300" channel="Info TV.lt">
-    <title lang="lt">Už ar prieš?</title>
+    <title lang="lt">Už ar prieš? 2/7</title>
   </programme>
   <programme start="20261016153000 +0300" stop="20261016160000 +0300" channel="Info TV.lt">
     <title lang="lt">KK2</title>
@@ -16975,7 +17044,7 @@
     <title lang="lt">Bus visko 12/6</title>
   </programme>
   <programme start="20261017120000 +0300" stop="20261017130000 +0300" channel="Info TV.lt">
-    <title lang="lt">Už ar prieš?</title>
+    <title lang="lt">Už ar prieš? 2/7</title>
   </programme>
   <programme start="20261017130000 +0300" stop="20261017143000 +0300" channel="Info TV.lt">
     <title lang="lt">Labas vakaras, Lietuva</title>
@@ -17101,7 +17170,7 @@
     <title lang="lt">Žinios</title>
   </programme>
   <programme start="20261018210000 +0300" stop="20261018220000 +0300" channel="Info TV.lt">
-    <title lang="lt">Už ar prieš?</title>
+    <title lang="lt">Už ar prieš? 2/7</title>
   </programme>
   <programme start="20261018220000 +0300" stop="20261018223000 +0300" channel="Info TV.lt">
     <title lang="lt">Minutė iki vidurnakčio</title>
@@ -18904,7 +18973,7 @@
     <title lang="lt">Tenisas: ATP turas šią savaitę 40</title>
   </programme>
   <programme start="20261017012000 +0300" stop="20261017022000 +0300" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">Rodeo 9</title>
+    <title lang="lt">Rodeo. Ft. Worth 9</title>
   </programme>
   <programme start="20261017022000 +0300" stop="20261017045500 +0300" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Eurolygos rungtynės. "Valencia" - "Maccabi" 45</title>
@@ -18961,16 +19030,16 @@
     <title lang="lt">Serie A. "Bologna" - "Inter" 30</title>
   </programme>
   <programme start="20261018130500 +0300" stop="20261018140500 +0300" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">Rodeo 9</title>
+    <title lang="lt">Rodeo. Ft. Worth 9</title>
   </programme>
   <programme start="20261018140500 +0300" stop="20261018160000 +0300" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">NHL. Lightning - Canucks 17/10/26 4</title>
+    <title lang="lt">NHL 4</title>
   </programme>
   <programme start="20261018160000 +0300" stop="20261018163000 +0300" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Tenisas: ATP turas šią savaitę 40</title>
   </programme>
   <programme start="20261018163000 +0300" stop="20261018185000 +0300" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">ATP Shanghai Masters 2026 turnyras. Singles. Final 29</title>
+    <title lang="lt">ATP Shanghai Masters 2026 turnyras 29</title>
   </programme>
   <programme start="20261018185000 +0300" stop="20261018210000 +0300" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Serie A. "Milan" - "Atalanta" 32</title>
@@ -19000,7 +19069,7 @@
     <title lang="lt">Bundesliga. "Bayern" - "RB Leipzig" 15</title>
   </programme>
   <programme start="20261019114500 +0300" stop="20261019134500 +0300" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">ATP Shanghai Masters 2026 turnyras. Singles. Final 29</title>
+    <title lang="lt">ATP Shanghai Masters 2026 turnyras 29</title>
   </programme>
   <programme start="20261019134500 +0300" stop="20261019154500 +0300" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Eurolygos rungtynės. Kauno „Žalgiris“ - Stambulo „Anadolu Efes“</title>
@@ -19042,28 +19111,28 @@
     <title lang="lt">Serie A. "Juventus" - "Lazio" 33</title>
   </programme>
   <programme start="20261020164500 +0300" stop="20261020185000 +0300" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">WNBA. Finals Game 2 19</title>
+    <title lang="lt">WNBA 19</title>
   </programme>
   <programme start="20261020185000 +0300" stop="20261020210000 +0300" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Europos taurė. "Balkan" - "Lietkabelis" 18</title>
   </programme>
-  <programme start="20261020210000 +0300" stop="20261020230000 +0300" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">Bundesliga. "Bayern" - "RB Leipzig" 15</title>
+  <programme start="20261020210000 +0300" stop="20261020220000 +0300" channel="GO3 Sport 1 (LT).lt">
+    <title lang="lt">Rodeo 9</title>
   </programme>
-  <programme start="20261020230000 +0300" stop="20261021010000 +0300" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">Bundesliga. "Leverkusen" - "Freiburg" 16</title>
+  <programme start="20261020220000 +0300" stop="20261021003000 +0300" channel="GO3 Sport 1 (LT).lt">
+    <title lang="lt">NBA rungtynės 1</title>
   </programme>
-  <programme start="20261021010000 +0300" stop="20261021025500 +0300" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">Didžiausios regbio kovos 12</title>
+  <programme start="20261021003000 +0300" stop="20261021020000 +0300" channel="GO3 Sport 1 (LT).lt">
+    <title lang="lt">MotoGP 164</title>
   </programme>
-  <programme start="20261021025500 +0300" stop="20261021050500 +0300" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">NHL. Lightning - Canucks 17/10/26 4</title>
+  <programme start="20261021020000 +0300" stop="20261021050500 +0300" channel="GO3 Sport 1 (LT).lt">
+    <title lang="lt">NBA rungtynės 2</title>
   </programme>
   <programme start="20261021050500 +0300" stop="20261021070000 +0300" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Krepšinis: ACB league 2023/24. "Tenerife" - "Baskonia" 10</title>
   </programme>
   <programme start="20261021070000 +0300" stop="20261021094500 +0300" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">UFC. Joaquin Buckley-Mike Malott 176</title>
+    <title lang="lt">UFC 176</title>
   </programme>
   <programme start="20261021094500 +0300" stop="20261021114500 +0300" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Serie A. "Milan" - "Atalanta" 32</title>
@@ -19072,7 +19141,7 @@
     <title lang="lt">Serie A. "Parma" - "Torino" 34</title>
   </programme>
   <programme start="20261021134500 +0300" stop="20261021154500 +0300" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">WNBA. Finals Game 2 19</title>
+    <title lang="lt">NBA rungtynės 3</title>
   </programme>
   <programme start="20261021154500 +0300" stop="20261021174500 +0300" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Europos taurė. "Turk Telekom" - "Šiauliai" 19</title>
@@ -19084,7 +19153,7 @@
     <title lang="lt">Eurolygos rungtynės. "Hapoel TA" - "Virtus" 49</title>
   </programme>
   <programme start="20261021220000 +0300" stop="20261021230000 +0300" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">Šveicarijos lyga. ZSC Lions - Davos 21</title>
+    <title lang="lt">Šveicarijos lyga 21</title>
   </programme>
   <programme start="20261015002500 +0300" stop="20261015022500 +0300" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Europos taurė. "Lietkabelis" - PAOK 16</title>
@@ -19231,7 +19300,7 @@
     <title lang="lt">Serie A. "Juventus" - "Lazio" 33</title>
   </programme>
   <programme start="20261018234500 +0300" stop="20261019023500 +0300" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">UFC. Joaquin Buckley-Mike Malott 176</title>
+    <title lang="lt">UFC 176</title>
   </programme>
   <programme start="20261019023500 +0300" stop="20261019045500 +0300" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Eurolygos rungtynės. "Barcelona" - "Olympiacos" 47</title>
@@ -19249,7 +19318,7 @@
     <title lang="lt">Fastzone 27</title>
   </programme>
   <programme start="20261019095500 +0300" stop="20261019115000 +0300" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">NHL. Lightning - Canucks 17/10/26 4</title>
+    <title lang="lt">NHL 4</title>
   </programme>
   <programme start="20261019115000 +0300" stop="20261019134500 +0300" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Krepšinis: ACB league 2023/24. "Tenerife" - "Baskonia" 10</title>
@@ -19258,10 +19327,10 @@
     <title lang="lt">Krepšinis: ACB league 2023/24. "Joventut" - "Barcelona" 11</title>
   </programme>
   <programme start="20261019160000 +0300" stop="20261019200000 +0300" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">ATP 250 Lyon turnyras. Singles. Round 1 1</title>
+    <title lang="lt">ATP 250 Lyon turnyras 1</title>
   </programme>
   <programme start="20261019200000 +0300" stop="20261019220000 +0300" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">ATP 250 Lyon turnyras. Singles. Round 1 2</title>
+    <title lang="lt">ATP 250 Lyon turnyras 2</title>
   </programme>
   <programme start="20261019220000 +0300" stop="20261020000000 +0300" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">LaLiga. "Real Betis" - "Barcelona" 48</title>
@@ -19273,10 +19342,10 @@
     <title lang="lt">Serie A. "Parma" - "Torino" 34</title>
   </programme>
   <programme start="20261020050000 +0300" stop="20261020070000 +0300" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">ATP Shanghai Masters 2026 turnyras. Singles. Final 29</title>
+    <title lang="lt">ATP Shanghai Masters 2026 turnyras 29</title>
   </programme>
   <programme start="20261020070000 +0300" stop="20261020090000 +0300" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">NHL. Lightning - Canucks 17/10/26 4</title>
+    <title lang="lt">NHL 4</title>
   </programme>
   <programme start="20261020090000 +0300" stop="20261020110000 +0300" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Šveicarijos lyga 20</title>
@@ -19288,7 +19357,7 @@
     <title lang="lt">Serie A. "Roma" - "Genoa" 31</title>
   </programme>
   <programme start="20261020150000 +0300" stop="20261020190000 +0300" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">ATP 250 Lyon turnyras. Singles. Round 1 3</title>
+    <title lang="lt">ATP 250 Lyon turnyras 3</title>
   </programme>
   <programme start="20261020190000 +0300" stop="20261020195000 +0300" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Fastzone 27</title>
@@ -19297,22 +19366,22 @@
     <title lang="lt">Europos taurė. "Buducnost" - "Neptūnas" 20</title>
   </programme>
   <programme start="20261020220000 +0300" stop="20261021000000 +0300" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">WNBA. Finals Game 2 19</title>
+    <title lang="lt">WNBA 19</title>
   </programme>
   <programme start="20261021000000 +0300" stop="20261021020000 +0300" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Ligue 1. "Strasbourg" - PSG 9</title>
   </programme>
-  <programme start="20261021020000 +0300" stop="20261021050000 +0300" channel="GO3 Sport 2 (LT).lt">
+  <programme start="20261021020000 +0300" stop="20261021043000 +0300" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">LaLiga. "Málaga" - "Real Sociedad" 49</title>
   </programme>
-  <programme start="20261021050000 +0300" stop="20261021070000 +0300" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">Didžiausios regbio kovos 12</title>
+  <programme start="20261021043000 +0300" stop="20261021070000 +0300" channel="GO3 Sport 2 (LT).lt">
+    <title lang="lt">NBA rungtynės 3</title>
   </programme>
   <programme start="20261021070000 +0300" stop="20261021090000 +0300" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Bundesliga. "Werder" - "Paderborn" 14</title>
   </programme>
   <programme start="20261021090000 +0300" stop="20261021110000 +0300" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">Šveicarijos lyga. ZSC Lions - Davos 21</title>
+    <title lang="lt">Šveicarijos lyga 21</title>
   </programme>
   <programme start="20261021110000 +0300" stop="20261021130000 +0300" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Europos taurė. "Balkan" - "Lietkabelis" 18</title>
@@ -19321,13 +19390,13 @@
     <title lang="lt">Europos taurė. "Turk Telekom" - "Šiauliai" 19</title>
   </programme>
   <programme start="20261021150000 +0300" stop="20261021190000 +0300" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">ATP 250 Lyon turnyras. Singles. Round 1&amp;2 4</title>
+    <title lang="lt">ATP 250 Lyon turnyras 4</title>
   </programme>
   <programme start="20261021190000 +0300" stop="20261021200000 +0300" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Rodeo 9</title>
   </programme>
   <programme start="20261021200000 +0300" stop="20261021210000 +0300" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">ATP 250 Lyon turnyras. Singles. Round 1&amp;2 5</title>
+    <title lang="lt">ATP 250 Lyon turnyras 5</title>
   </programme>
   <programme start="20261015040000 +0300" stop="20261015060000 +0300" channel="2TV.lt">
     <title lang="lt">Sal2</title>
