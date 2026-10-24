@@ -20012,7 +20012,7 @@
     <title lang="lt">Už kadro. MXGP 111</title>
   </programme>
   <programme start="20261025072500 +0200" stop="20261025075400 +0200" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">Lengvoji atletika. Spartan Race Hvar Highlights 4</title>
+    <title lang="lt">Lengvoji atletika 4</title>
   </programme>
   <programme start="20261025075400 +0200" stop="20261025091500 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">MotoGP 173</title>
@@ -20042,7 +20042,7 @@
     <title lang="lt">Bundesliga. "Freiburg" - "Bayern" 18</title>
   </programme>
   <programme start="20261025205000 +0200" stop="20261025215000 +0200" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">Rodeo. Ft. Worth 9</title>
+    <title lang="lt">Rodeo 9</title>
   </programme>
   <programme start="20261025215000 +0200" stop="20261026000000 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">LaLiga. "Barcelona" - "Real" 53</title>
@@ -20069,7 +20069,7 @@
     <title lang="lt">Bundesliga. "Mainz" - "Werder" 17</title>
   </programme>
   <programme start="20261026134000 +0200" stop="20261026153500 +0200" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">Ligue 1 10</title>
+    <title lang="lt">Serie A. "Napoli" - "Roma" 35</title>
   </programme>
   <programme start="20261026153500 +0200" stop="20261026173500 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Šveicarijos lyga 23</title>
@@ -20077,14 +20077,14 @@
   <programme start="20261026173500 +0200" stop="20261026193500 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Šveicarijos lyga 25</title>
   </programme>
-  <programme start="20261026193500 +0200" stop="20261026200400 +0200" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">Dviračių sportas 10</title>
-  </programme>
-  <programme start="20261026200400 +0200" stop="20261026220000 +0200" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261026193500 +0200" stop="20261026213500 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Krepšinis: ACB league 2023/24. "Valencia" - "Baskonia" 12</title>
   </programme>
-  <programme start="20261026220000 +0200" stop="20261027000000 +0200" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">WNBA 21</title>
+  <programme start="20261026213500 +0200" stop="20261026233500 +0200" channel="GO3 Sport 1 (LT).lt">
+    <title lang="lt">Ligue 1. PSG - Lyon 10</title>
+  </programme>
+  <programme start="20261026233500 +0200" stop="20261027000000 +0200" channel="GO3 Sport 1 (LT).lt">
+    <title lang="lt">Dviračių sportas 10</title>
   </programme>
   <programme start="20261027000000 +0200" stop="20261027015500 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">NHL 5</title>
@@ -20120,7 +20120,7 @@
     <title lang="lt">Eurolygos rungtynės 56</title>
   </programme>
   <programme start="20261027200000 +0200" stop="20261027210000 +0200" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">Rodeo. Glendale 10</title>
+    <title lang="lt">Rodeo 10</title>
   </programme>
   <programme start="20261027210000 +0200" stop="20261027214500 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">GP Confidential 19</title>
@@ -20144,10 +20144,10 @@
     <title lang="lt">MotoGP 164</title>
   </programme>
   <programme start="20261028094500 +0200" stop="20261028104500 +0200" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">Rodeo. Ft. Worth 9</title>
+    <title lang="lt">Rodeo 9</title>
   </programme>
   <programme start="20261028104500 +0200" stop="20261028124500 +0200" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">Serie A 37</title>
+    <title lang="lt">Serie A. Lecce - Juventus 37</title>
   </programme>
   <programme start="20261028124500 +0200" stop="20261028144500 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Šveicarijos lyga 26</title>
@@ -20176,11 +20176,11 @@
   <programme start="20261029010000 +0200" stop="20261029033000 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">NBA rungtynės 12</title>
   </programme>
-  <programme start="20261029033000 +0200" stop="20261029060000 +0200" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261029033000 +0200" stop="20261029063000 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Eurolygos rungtynės 56</title>
   </programme>
-  <programme start="20261029060000 +0200" stop="20261029070000 +0200" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">Rodeo. Glendale 10</title>
+  <programme start="20261029063000 +0200" stop="20261029070000 +0200" channel="GO3 Sport 1 (LT).lt">
+    <title lang="lt">Dviračių sportas 10</title>
   </programme>
   <programme start="20261029070000 +0200" stop="20261029090000 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Eurolygos rungtynės 57</title>
@@ -20291,10 +20291,10 @@
     <title lang="lt">LaLiga. "Atlético" - "Deportivo" 52</title>
   </programme>
   <programme start="20261025000000 +0300" stop="20261025010000 +0300" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">Rodeo. Ft. Worth 9</title>
+    <title lang="lt">Rodeo 9</title>
   </programme>
   <programme start="20261025010000 +0300" stop="20261025015000 +0300" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">Lengvoji atletika. Spartan Race Hvar Highlights 4</title>
+    <title lang="lt">Lengvoji atletika 4</title>
   </programme>
   <programme start="20261025015000 +0300" stop="20261025030500 +0300" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">MotoGP 172</title>
@@ -20327,19 +20327,19 @@
     <title lang="lt">ATP 250 Lyon turnyras 9</title>
   </programme>
   <programme start="20261025173000 +0200" stop="20261025182900 +0200" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">Rodeo. Ft. Worth 9</title>
+    <title lang="lt">Rodeo 9</title>
   </programme>
   <programme start="20261025182900 +0200" stop="20261025185000 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Penktasis ketvirtis 4</title>
   </programme>
   <programme start="20261025185000 +0200" stop="20261025210000 +0200" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">Serie A 37</title>
+    <title lang="lt">Serie A. Lecce - Juventus 37</title>
   </programme>
-  <programme start="20261025210000 +0200" stop="20261025213500 +0200" channel="GO3 Sport 2 (LT).lt">
+  <programme start="20261025210000 +0200" stop="20261025213400 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Tenisas: ATP turas šią savaitę 41</title>
   </programme>
-  <programme start="20261025213500 +0200" stop="20261025233500 +0200" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">Ligue 1 10</title>
+  <programme start="20261025213400 +0200" stop="20261025233500 +0200" channel="GO3 Sport 2 (LT).lt">
+    <title lang="lt">Nyderlandų lyga. PSV - "Feyenoord" 10</title>
   </programme>
   <programme start="20261025233500 +0200" stop="20261026013000 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Šveicarijos lyga 25</title>
@@ -20393,10 +20393,10 @@
     <title lang="lt">Serie A. "Napoli" - "Roma" 35</title>
   </programme>
   <programme start="20261027090000 +0200" stop="20261027110000 +0200" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">Serie A 37</title>
+    <title lang="lt">Serie A. Lecce - Juventus 37</title>
   </programme>
   <programme start="20261027110000 +0200" stop="20261027120000 +0200" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">Rodeo. Glendale 10</title>
+    <title lang="lt">Rodeo 10</title>
   </programme>
   <programme start="20261027120000 +0200" stop="20261027123000 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">GP Confidential 19</title>
@@ -20429,7 +20429,7 @@
     <title lang="lt">Krepšinis: ACB league 2023/24. "Valencia" - "Baskonia" 12</title>
   </programme>
   <programme start="20261028050000 +0200" stop="20261028070000 +0200" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">Ligue 1 10</title>
+    <title lang="lt">Ligue 1. PSG - Lyon 10</title>
   </programme>
   <programme start="20261028070000 +0200" stop="20261028090000 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Tenisas: ATP 250 Europos atvirasis čempionatas 3</title>
@@ -20459,7 +20459,7 @@
     <title lang="lt">Europos taurė 23</title>
   </programme>
   <programme start="20261029014500 +0200" stop="20261029024500 +0200" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">Rodeo. Glendale 10</title>
+    <title lang="lt">Rodeo 10</title>
   </programme>
   <programme start="20261029024500 +0200" stop="20261029033000 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">NBA apžvalga 3601</title>
