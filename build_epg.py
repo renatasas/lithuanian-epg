@@ -342,6 +342,15 @@ def main():
     if schedules:
         replace_tv3_programmes(root, schedules)
 
+    # Supplement Lietuvos Rytas when TV3 has no data for it.
+    if CHANNEL_ID not in schedules:
+        try:
+            rytas_schedule = get_rytas_schedule()
+            replace_rytas_programmes(root, rytas_schedule)
+            print(f"{CHANNEL_ID}: {len(rytas_schedule)} programmes from supplementary sources")
+        except Exception as exc:
+            print(f"Warning: Lietuvos Rytas supplement unavailable: {exc}. Preserving Open-EPG data.", file=sys.stderr)
+
     ET.indent(root, space="  ")
     tree = ET.ElementTree(root)
     tree.write(OUTPUT_FILE, encoding="utf-8", xml_declaration=True)
