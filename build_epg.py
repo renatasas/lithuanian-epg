@@ -290,8 +290,16 @@ def get_tv3_schedules(days: int = 7):
 
     missing = [channel_id for channel_id, entries in schedules.items() if not entries]
     if missing:
-        raise RuntimeError(f"TV3 guide has no entries for: {', '.join(missing)}")
-    return {channel_id: dedupe_and_sort(entries) for channel_id, entries in schedules.items()}
+        print(
+            "Warning: TV3 guide has no entries for: " + ", ".join(missing)
+            + ". Keeping any existing Open-EPG entries for those channels.",
+            file=sys.stderr,
+        )
+    return {
+        channel_id: dedupe_and_sort(entries)
+        for channel_id, entries in schedules.items()
+        if entries
+    }
 
 
 def replace_tv3_programmes(root: ET.Element, schedules):
@@ -326,8 +334,13 @@ def main():
     root = ET.fromstring(r.content)
     ensure_channel(root)
 
-    schedules = get_tv3_schedules()
-    replace_tv3_programmes(root, schedules)
+    try:
+        schedules = get_tv3_schedules()
+    except (requests.RequestException, ValueError) as exc:
+        print(f"Warning: TV3 guide unavailable: {exc}. Preserving Open-EPG data.", file=sys.stderr)
+        schedules = {}
+    if schedules:
+        replace_tv3_programmes(root, schedules)
 
     ET.indent(root, space="  ")
     tree = ET.ElementTree(root)
