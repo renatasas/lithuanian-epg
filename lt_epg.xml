@@ -19109,43 +19109,46 @@
   <programme start="20261103045500 +0200" stop="20261103070000 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Eurolygos rungtynės. "Real" - "Fenerbahce" 61</title>
   </programme>
-  <programme start="20261103070000 +0200" stop="20261103090000 +0200" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261103070000 +0200" stop="20261103084900 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">LaLiga. "Barcelona" - "Alaves" 56</title>
   </programme>
-  <programme start="20261103090000 +0200" stop="20261103110000 +0200" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261103084900 +0200" stop="20261103104500 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Krepšinis - NCAA 1</title>
   </programme>
-  <programme start="20261103110000 +0200" stop="20261103130000 +0200" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261103104500 +0200" stop="20261103124500 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Krepšinis - NCAA 2</title>
   </programme>
-  <programme start="20261103130000 +0200" stop="20261103153000 +0200" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261103124500 +0200" stop="20261103151000 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">UFC 186</title>
   </programme>
-  <programme start="20261103153000 +0200" stop="20261103160000 +0200" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261103151000 +0200" stop="20261103160500 +0200" channel="GO3 Sport 1 (LT).lt">
+    <title lang="lt">Rodeo 11</title>
+  </programme>
+  <programme start="20261103160500 +0200" stop="20261103163500 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">GP Confidential 20</title>
   </programme>
-  <programme start="20261103160000 +0200" stop="20261103170000 +0200" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261103163500 +0200" stop="20261103173000 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">World Rally Championship 274</title>
   </programme>
-  <programme start="20261103170000 +0200" stop="20261103190000 +0200" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261103173000 +0200" stop="20261103192000 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Serie A. "Milan" - "Inter" 42</title>
   </programme>
-  <programme start="20261103190000 +0200" stop="20261103210000 +0200" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261103192000 +0200" stop="20261103211000 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">LaLiga. "Racing" - "Real" 57</title>
   </programme>
-  <programme start="20261103210000 +0200" stop="20261103231000 +0200" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261103211000 +0200" stop="20261103232500 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">NBA rungtynės. Bostono „Celtics“ - Orlando „Magic“</title>
   </programme>
-  <programme start="20261103231000 +0200" stop="20261104011000 +0200" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261103232500 +0200" stop="20261104012000 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Europos taurė. "Tofas" - "Neptūnas" 24</title>
   </programme>
-  <programme start="20261104011000 +0200" stop="20261104023000 +0200" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261104012000 +0200" stop="20261104023500 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">MotoGP 183</title>
   </programme>
-  <programme start="20261104023000 +0200" stop="20261104050000 +0200" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261104023500 +0200" stop="20261104051000 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">MotoGP 184</title>
   </programme>
-  <programme start="20261104050000 +0200" stop="20261104070000 +0200" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261104051000 +0200" stop="20261104070000 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Serie A. "Frosinone" - "Torino" 43</title>
   </programme>
   <programme start="20261104070000 +0200" stop="20261104090000 +0200" channel="GO3 Sport 1 (LT).lt">
@@ -19281,7 +19284,7 @@
     <title lang="lt">Serie A. "Torino" - "Lecce" 46</title>
   </programme>
   <programme start="20261107180000 +0200" stop="20261107190000 +0200" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">Rodeo. Kansas City 12</title>
+    <title lang="lt">Rodeo 12</title>
   </programme>
   <programme start="20261107190000 +0200" stop="20261107192000 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Penktasis ketvirtis 6</title>
@@ -19305,7 +19308,7 @@
     <title lang="lt">One Championship 246</title>
   </programme>
   <programme start="20261108115000 +0200" stop="20261108125000 +0200" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">Rodeo. Kansas City 12</title>
+    <title lang="lt">Rodeo 12</title>
   </programme>
   <programme start="20261108125000 +0200" stop="20261108132000 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Futbolas: Serie A 11</title>
@@ -19376,19 +19379,19 @@
   <programme start="20261103050500 +0200" stop="20261103070000 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Eurolygos rungtynės 64</title>
   </programme>
-  <programme start="20261103070000 +0200" stop="20261103090000 +0200" channel="GO3 Sport 2 (LT).lt">
+  <programme start="20261103070000 +0200" stop="20261103093000 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">ATP 500 Basel turnyras 4</title>
   </programme>
-  <programme start="20261103090000 +0200" stop="20261103100000 +0200" channel="GO3 Sport 2 (LT).lt">
+  <programme start="20261103093000 +0200" stop="20261103103000 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">World Rally Championship 274</title>
   </programme>
-  <programme start="20261103100000 +0200" stop="20261103120000 +0200" channel="GO3 Sport 2 (LT).lt">
+  <programme start="20261103103000 +0200" stop="20261103122000 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">LaLiga. "Athletic" - "Real Sociedad" 58</title>
   </programme>
-  <programme start="20261103120000 +0200" stop="20261103140000 +0200" channel="GO3 Sport 2 (LT).lt">
+  <programme start="20261103122000 +0200" stop="20261103140500 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Serie A 44</title>
   </programme>
-  <programme start="20261103140000 +0200" stop="20261103160000 +0200" channel="GO3 Sport 2 (LT).lt">
+  <programme start="20261103140500 +0200" stop="20261103160000 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Serie A. "Atalanta" - "Parma" 45</title>
   </programme>
   <programme start="20261103160000 +0200" stop="20261103163000 +0200" channel="GO3 Sport 2 (LT).lt">
@@ -19400,22 +19403,22 @@
   <programme start="20261103185000 +0200" stop="20261103210000 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Europos taurė. "Tofas" - "Neptūnas" 24</title>
   </programme>
-  <programme start="20261103210000 +0200" stop="20261103230000 +0200" channel="GO3 Sport 2 (LT).lt">
+  <programme start="20261103210000 +0200" stop="20261103225500 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Krepšinis - NCAA 1</title>
   </programme>
-  <programme start="20261103230000 +0200" stop="20261104010000 +0200" channel="GO3 Sport 2 (LT).lt">
+  <programme start="20261103225500 +0200" stop="20261104005000 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">LaLiga. "Racing" - "Real" 57</title>
   </programme>
-  <programme start="20261104010000 +0200" stop="20261104030000 +0200" channel="GO3 Sport 2 (LT).lt">
+  <programme start="20261104005000 +0200" stop="20261104024500 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Bundesliga. "Werder" - "Hoffenheim" 19</title>
   </programme>
-  <programme start="20261104030000 +0200" stop="20261104050000 +0200" channel="GO3 Sport 2 (LT).lt">
+  <programme start="20261104024500 +0200" stop="20261104054000 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Bundesliga. "Bayern" - "Borussia" 20</title>
   </programme>
-  <programme start="20261104050000 +0200" stop="20261104070000 +0200" channel="GO3 Sport 2 (LT).lt">
+  <programme start="20261104054000 +0200" stop="20261104072000 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Krepšinis: ACB league 2023/24. "Baskonia" - "Manresa" 13</title>
   </programme>
-  <programme start="20261104070000 +0200" stop="20261104090000 +0200" channel="GO3 Sport 2 (LT).lt">
+  <programme start="20261104072000 +0200" stop="20261104090000 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Serie A. "Udinese" - "Roma" 41</title>
   </programme>
   <programme start="20261104090000 +0200" stop="20261104110000 +0200" channel="GO3 Sport 2 (LT).lt">
@@ -19569,7 +19572,7 @@
     <title lang="lt">MotoGP 191</title>
   </programme>
   <programme start="20261107200000 +0200" stop="20261107210000 +0200" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">Rodeo. Kansas City 12</title>
+    <title lang="lt">Rodeo 12</title>
   </programme>
   <programme start="20261107210000 +0200" stop="20261107213500 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Futbolas: Serie A 11</title>
@@ -19611,10 +19614,10 @@
     <title lang="lt">MotoGP 192</title>
   </programme>
   <programme start="20261108170500 +0200" stop="20261108184500 +0200" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">MotoGP. Qatar GP. Moto2 Race 193</title>
+    <title lang="lt">MotoGP 193</title>
   </programme>
   <programme start="20261108184500 +0200" stop="20261108201000 +0200" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">MotoGP. Qatar GP. MotoGP Race 194</title>
+    <title lang="lt">MotoGP 194</title>
   </programme>
   <programme start="20261108201000 +0200" stop="20261108230000 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">UFC 191</title>
