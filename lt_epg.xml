@@ -14212,84 +14212,6 @@
     <desc>Europe sits on active tectonic zones, from Iceland to Italy. Ancient volcanoes under its cities and coasts still pose risks that could affect Europe and beyond.</desc>
     <episode-num system="xmltv_ns">0.1.0</episode-num>
   </programme>
-  <programme start="20261109000500 +0200" stop="20261109015000 +0200" channel="LRT Televizija.lt">
-    <title lang="lt">Meilė, melas, kraujas</title>
-  </programme>
-  <programme start="20261109015000 +0200" stop="20261109031500 +0200" channel="LRT Televizija.lt">
-    <title lang="lt">Ką mes veikiame šešėliuose</title>
-  </programme>
-  <programme start="20261109031500 +0200" stop="20261109032500 +0200" channel="LRT Televizija.lt">
-    <title lang="lt">Nepamirštas Vilnius 1/13</title>
-  </programme>
-  <programme start="20261109032500 +0200" stop="20261109041500 +0200" channel="LRT Televizija.lt">
-    <title lang="lt">"Favoritės bistro". 1922 1/12</title>
-  </programme>
-  <programme start="20261109041500 +0200" stop="20261109050500 +0200" channel="LRT Televizija.lt">
-    <title lang="lt">Planeta Žemė 1/1</title>
-  </programme>
-  <programme start="20261109050500 +0200" stop="20261109060000 +0200" channel="LRT Televizija.lt">
-    <title lang="lt">Slapti Europos stebuklai 1/3</title>
-  </programme>
-  <programme start="20261109060000 +0200" stop="20261109060200 +0200" channel="LRT Televizija.lt">
-    <title lang="lt">Lietuvos Respublikos himnas 1</title>
-  </programme>
-  <programme start="20261109060200 +0200" stop="20261109090000 +0200" channel="LRT Televizija.lt">
-    <title lang="lt">Labas rytas, Lietuva 6/219</title>
-  </programme>
-  <programme start="20261109090000 +0200" stop="20261109094500 +0200" channel="LRT Televizija.lt">
-    <title lang="lt">Kelno kriminalinė policija 16/25</title>
-  </programme>
-  <programme start="20261109094500 +0200" stop="20261109103000 +0200" channel="LRT Televizija.lt">
-    <title lang="lt">Rozenheimo policija 20/4</title>
-  </programme>
-  <programme start="20261109103000 +0200" stop="20261109112000 +0200" channel="LRT Televizija.lt">
-    <title lang="lt">Farai senjorai 1/80</title>
-  </programme>
-  <programme start="20261109112000 +0200" stop="20261109121500 +0200" channel="LRT Televizija.lt">
-    <title lang="lt">Tandemas 3/6</title>
-  </programme>
-  <programme start="20261109121500 +0200" stop="20261109124500 +0200" channel="LRT Televizija.lt">
-    <title lang="lt">Spėk ir atspėk 2/46</title>
-  </programme>
-  <programme start="20261109124500 +0200" stop="20261109131500 +0200" channel="LRT Televizija.lt">
-    <title lang="lt">Kas ir kodėl? 12/46</title>
-  </programme>
-  <programme start="20261109131500 +0200" stop="20261109140000 +0200" channel="LRT Televizija.lt">
-    <title lang="lt">Anthony Bourdainas. Nepažįstami kraštai 11/6</title>
-  </programme>
-  <programme start="20261109140000 +0200" stop="20261109142000 +0200" channel="LRT Televizija.lt">
-    <title lang="lt">Žinios. Orai 215</title>
-  </programme>
-  <programme start="20261109142000 +0200" stop="20261109163000 +0200" channel="LRT Televizija.lt">
-    <title lang="lt">Laba diena, Lietuva 7/215</title>
-  </programme>
-  <programme start="20261109163000 +0200" stop="20261109173000 +0200" channel="LRT Televizija.lt">
-    <title lang="lt">Pažadas 4/80</title>
-  </programme>
-  <programme start="20261109173000 +0200" stop="20261109180000 +0200" channel="LRT Televizija.lt">
-    <title lang="lt">Spėk ir atspėk 2/51</title>
-  </programme>
-  <programme start="20261109180000 +0200" stop="20261109183000 +0200" channel="LRT Televizija.lt">
-    <title lang="lt">Kas ir kodėl? 12/51</title>
-  </programme>
-  <programme start="20261109183000 +0200" stop="20261109193000 +0200" channel="LRT Televizija.lt">
-    <title lang="lt">Svarbi valanda 6/196</title>
-  </programme>
-  <programme start="20261109193000 +0200" stop="20261109203000 +0200" channel="LRT Televizija.lt">
-    <title lang="lt">Daiktų istorijos 9/9</title>
-  </programme>
-  <programme start="20261109203000 +0200" stop="20261109213000 +0200" channel="LRT Televizija.lt">
-    <title lang="lt">Panorama 7/233</title>
-  </programme>
-  <programme start="20261109213000 +0200" stop="20261109223000 +0200" channel="LRT Televizija.lt">
-    <title lang="lt">LRT forumas 13/10</title>
-  </programme>
-  <programme start="20261109223000 +0200" stop="20261109232000 +0200" channel="LRT Televizija.lt">
-    <title lang="lt">Airis afera 1/3</title>
-  </programme>
-  <programme start="20261109232000 +0200" stop="20261110001500 +0200" channel="LRT Televizija.lt">
-    <title lang="lt">Narcos. Narkotikų prekeiviai 3/6</title>
-  </programme>
   <programme start="20261110001500 +0200" stop="20261110004000 +0200" channel="LRT Televizija.lt">
     <title lang="lt">Migruojantys paukščiai 1/4</title>
   </programme>
@@ -14812,74 +14734,11 @@
   <programme start="20261115214500 +0200" stop="20261115235000 +0200" channel="LRT Televizija.lt">
     <title lang="lt">Jaunystės pažadas</title>
   </programme>
-  <programme start="20261115235000 +0200" stop="20261116005000 +0200" channel="LRT Televizija.lt">
+  <programme start="20261115235000 +0200" stop="20261116014500 +0200" channel="LRT Televizija.lt">
     <title lang="lt">Perspektyvi mergina</title>
   </programme>
-  <programme start="20261109002000 +0200" stop="20261109010500 +0200" channel="LRT PLIUS.lt">
-    <title lang="lt">Hanibalas 1/3</title>
-  </programme>
-  <programme start="20261109010500 +0200" stop="20261109015000 +0200" channel="LRT PLIUS.lt">
-    <title lang="lt">Hanibalas 1/4</title>
-  </programme>
-  <programme start="20261109015000 +0200" stop="20261109034500 +0200" channel="LRT PLIUS.lt">
-    <title lang="lt">Kapų plėšikė Lara Kroft</title>
-  </programme>
-  <programme start="20261109034500 +0200" stop="20261109060000 +0200" channel="LRT PLIUS.lt">
-    <title lang="lt">Rudens legendos</title>
-  </programme>
-  <programme start="20261109060000 +0200" stop="20261109060200 +0200" channel="LRT PLIUS.lt">
-    <title lang="lt">Lietuvos Respublikos himnas 1</title>
-  </programme>
-  <programme start="20261109060200 +0200" stop="20261109063000 +0200" channel="LRT PLIUS.lt">
-    <title lang="lt">Dviračio savaitė 2/10</title>
-  </programme>
-  <programme start="20261109063000 +0200" stop="20261109090000 +0200" channel="LRT PLIUS.lt">
-    <title lang="lt">Ryto garsai 1/115</title>
-  </programme>
-  <programme start="20261109090000 +0200" stop="20261109100000 +0200" channel="LRT PLIUS.lt">
-    <title lang="lt">LRT Aktualijų studija 2/90</title>
-  </programme>
-  <programme start="20261109100000 +0200" stop="20261109123000 +0200" channel="LRT PLIUS.lt">
-    <title lang="lt">Labas rytas, Lietuva 6/219</title>
-  </programme>
-  <programme start="20261109123000 +0200" stop="20261109133000 +0200" channel="LRT PLIUS.lt">
-    <title lang="lt">2026 m. Dakaro vasaros jaunimo olimpinių žaidynių apžvalga 1/9</title>
-  </programme>
-  <programme start="20261109133000 +0200" stop="20261109150000 +0200" channel="LRT PLIUS.lt">
-    <title lang="lt">Sveikinimų koncertas 10</title>
-  </programme>
-  <programme start="20261109150000 +0200" stop="20261109160000 +0200" channel="LRT PLIUS.lt">
-    <title lang="lt">Legendos. Šiandien ir visados 8/5</title>
-  </programme>
-  <programme start="20261109160000 +0200" stop="20261109170000 +0200" channel="LRT PLIUS.lt">
-    <title lang="lt">Dinastijos 2/9</title>
-  </programme>
-  <programme start="20261109170000 +0200" stop="20261109174500 +0200" channel="LRT PLIUS.lt">
-    <title lang="lt">Be kaukių 1/49</title>
-  </programme>
-  <programme start="20261109174500 +0200" stop="20261109183000 +0200" channel="LRT PLIUS.lt">
-    <title lang="lt">Palikimas 1/102</title>
-  </programme>
-  <programme start="20261109183000 +0200" stop="20261109193000 +0200" channel="LRT PLIUS.lt">
-    <title lang="lt">1 000 pasaulio stebuklų 5/10</title>
-  </programme>
-  <programme start="20261109193000 +0200" stop="20261109203000 +0200" channel="LRT PLIUS.lt">
-    <title lang="lt">Coco Chanel. Nesuvaržytoji 1/2</title>
-  </programme>
-  <programme start="20261109203000 +0200" stop="20261109210000 +0200" channel="LRT PLIUS.lt">
-    <title lang="lt">Panorama 7/313</title>
-  </programme>
-  <programme start="20261109210000 +0200" stop="20261109212000 +0200" channel="LRT PLIUS.lt">
-    <title lang="lt">Dienos tema 7/193</title>
-  </programme>
-  <programme start="20261109212000 +0200" stop="20261109213000 +0200" channel="LRT PLIUS.lt">
-    <title lang="lt">Sportas. Orai 313</title>
-  </programme>
-  <programme start="20261109213000 +0200" stop="20261109233000 +0200" channel="LRT PLIUS.lt">
-    <title lang="lt">5½ meilės istorijos viename Vilniaus bute</title>
-  </programme>
-  <programme start="20261109233000 +0200" stop="20261110002000 +0200" channel="LRT PLIUS.lt">
-    <title lang="lt">Daktaras Martinas 4/4</title>
+  <programme start="20261116014500 +0200" stop="20261116024500 +0200" channel="LRT Televizija.lt">
+    <title lang="lt">Tolkinas</title>
   </programme>
   <programme start="20261110002000 +0200" stop="20261110011500 +0200" channel="LRT PLIUS.lt">
     <title lang="lt">Pažadas 4/80</title>
@@ -15433,83 +15292,17 @@
   <programme start="20261115211000 +0200" stop="20261115230000 +0200" channel="LRT PLIUS.lt">
     <title lang="lt">Dailusis čiuožimas. ISU Grand Prix. Everetas. Ledo šokiai. Laisvoji programa 18</title>
   </programme>
-  <programme start="20261115230000 +0200" stop="20261116000000 +0200" channel="LRT PLIUS.lt">
+  <programme start="20261115230000 +0200" stop="20261116010000 +0200" channel="LRT PLIUS.lt">
     <title lang="lt">Dailusis čiuožimas. ISU Grand Prix. Everetas. Moterys. Laisvoji programa 19</title>
   </programme>
-  <programme start="20261109014000 +0200" stop="20261109034000 +0200" channel="LNK.lt">
-    <title lang="lt">Nieko asmeniško</title>
+  <programme start="20261116010000 +0200" stop="20261116014500 +0200" channel="LRT PLIUS.lt">
+    <title lang="lt">Hanibalas 1/7</title>
   </programme>
-  <programme start="20261109034000 +0200" stop="20261109053000 +0200" channel="LNK.lt">
-    <title lang="lt">Pagirios Tailande</title>
+  <programme start="20261116014500 +0200" stop="20261116023000 +0200" channel="LRT PLIUS.lt">
+    <title lang="lt">Hanibalas 1/8</title>
   </programme>
-  <programme start="20261109053000 +0200" stop="20261109060000 +0200" channel="LNK.lt">
-    <title lang="lt">Pertrauka</title>
-  </programme>
-  <programme start="20261109060000 +0200" stop="20261109063000 +0200" channel="LNK.lt">
-    <title lang="lt">Šaunusis Skūbis-Dū 1/14</title>
-  </programme>
-  <programme start="20261109063000 +0200" stop="20261109070000 +0200" channel="LNK.lt">
-    <title lang="lt">Tomo ir Džerio nuotykiai 13</title>
-  </programme>
-  <programme start="20261109070000 +0200" stop="20261109073000 +0200" channel="LNK.lt">
-    <title lang="lt">TAIP ir NE</title>
-  </programme>
-  <programme start="20261109073000 +0200" stop="20261109090000 +0200" channel="LNK.lt">
-    <title lang="lt">Muzikos detektyvai 2/8</title>
-  </programme>
-  <programme start="20261109090000 +0200" stop="20261109100000 +0200" channel="LNK.lt">
-    <title lang="lt">Šviežias kraujas 2/3</title>
-  </programme>
-  <programme start="20261109100000 +0200" stop="20261109103000 +0200" channel="LNK.lt">
-    <title lang="lt">Man reikia meilės 2/9</title>
-  </programme>
-  <programme start="20261109103000 +0200" stop="20261109110000 +0200" channel="LNK.lt">
-    <title lang="lt">Man reikia meilės 2/10</title>
-  </programme>
-  <programme start="20261109110000 +0200" stop="20261109120000 +0200" channel="LNK.lt">
-    <title lang="lt">Tolimas miestas 2/109</title>
-  </programme>
-  <programme start="20261109120000 +0200" stop="20261109130000 +0200" channel="LNK.lt">
-    <title lang="lt">Tolimas miestas 2/110</title>
-  </programme>
-  <programme start="20261109130000 +0200" stop="20261109140000 +0200" channel="LNK.lt">
-    <title lang="lt">Turtuolė varguolė 12</title>
-  </programme>
-  <programme start="20261109140000 +0200" stop="20261109150000 +0200" channel="LNK.lt">
-    <title lang="lt">Meilė iš pirmo žvilgsnio 6/2</title>
-  </programme>
-  <programme start="20261109150000 +0200" stop="20261109160000 +0200" channel="LNK.lt">
-    <title lang="lt">Nuodėmės ir rožės 7</title>
-  </programme>
-  <programme start="20261109160000 +0200" stop="20261109163000 +0200" channel="LNK.lt">
-    <title lang="lt">Žinios</title>
-  </programme>
-  <programme start="20261109163000 +0200" stop="20261109170000 +0200" channel="LNK.lt">
-    <title lang="lt">TAIP ir NE</title>
-  </programme>
-  <programme start="20261109170000 +0200" stop="20261109173500 +0200" channel="LNK.lt">
-    <title lang="lt">Pas Editą</title>
-  </programme>
-  <programme start="20261109173500 +0200" stop="20261109183000 +0200" channel="LNK.lt">
-    <title lang="lt">Labas vakaras, Lietuva</title>
-  </programme>
-  <programme start="20261109183000 +0200" stop="20261109193000 +0200" channel="LNK.lt">
-    <title lang="lt">Žinios. Sportas. Orai</title>
-  </programme>
-  <programme start="20261109193000 +0200" stop="20261109200000 +0200" channel="LNK.lt">
-    <title lang="lt">Rimti reikalai 9/40</title>
-  </programme>
-  <programme start="20261109200000 +0200" stop="20261109210000 +0200" channel="LNK.lt">
-    <title lang="lt">Nuo... Iki...</title>
-  </programme>
-  <programme start="20261109210000 +0200" stop="20261109213000 +0200" channel="LNK.lt">
-    <title lang="lt">Ne visi namie 40</title>
-  </programme>
-  <programme start="20261109213000 +0200" stop="20261109223000 +0200" channel="LNK.lt">
-    <title lang="lt">Žinios. Sportas. Orai</title>
-  </programme>
-  <programme start="20261109223000 +0200" stop="20261110004000 +0200" channel="LNK.lt">
-    <title lang="lt">Patruliai</title>
+  <programme start="20261116023000 +0200" stop="20261116033000 +0200" channel="LRT PLIUS.lt">
+    <title lang="lt">Jaunystės pažadas</title>
   </programme>
   <programme start="20261110004000 +0200" stop="20261110014000 +0200" channel="LNK.lt">
     <title lang="lt">FTB. Tarptautinis skyrius 2/11</title>
@@ -15913,83 +15706,14 @@
   <programme start="20261115193000 +0200" stop="20261115220000 +0200" channel="LNK.lt">
     <title lang="lt">Žvaigždžių duetai. Nauja era</title>
   </programme>
-  <programme start="20261115220000 +0200" stop="20261115230000 +0200" channel="LNK.lt">
+  <programme start="20261115220000 +0200" stop="20261116003500 +0200" channel="LNK.lt">
     <title lang="lt">Betono džiunglės</title>
   </programme>
-  <programme start="20261109011000 +0200" stop="20261109043000 +0200" channel="TV3.lt">
-    <title lang="lt">Pianistas</title>
+  <programme start="20261116003500 +0200" stop="20261116025500 +0200" channel="LNK.lt">
+    <title lang="lt">Sakalo akis</title>
   </programme>
-  <programme start="20261109043000 +0200" stop="20261109060000 +0200" channel="TV3.lt">
-    <title lang="lt">Dingusiųjų žemė 2/2</title>
-  </programme>
-  <programme start="20261109060000 +0200" stop="20261109063000 +0200" channel="TV3.lt">
-    <title lang="lt">Kotrynos burtai 6/10</title>
-  </programme>
-  <programme start="20261109063000 +0200" stop="20261109090000 +0200" channel="TV3.lt">
-    <title lang="lt">galvOK 11/10</title>
-  </programme>
-  <programme start="20261109090000 +0200" stop="20261109093000 +0200" channel="TV3.lt">
-    <title lang="lt">Moterys meluoja geriau 8/62</title>
-  </programme>
-  <programme start="20261109093000 +0200" stop="20261109100000 +0200" channel="TV3.lt">
-    <title lang="lt">Moterys meluoja geriau 8/63</title>
-  </programme>
-  <programme start="20261109100000 +0200" stop="20261109110000 +0200" channel="TV3.lt">
-    <title lang="lt">Meilės sūkuryje 1/4583</title>
-  </programme>
-  <programme start="20261109110000 +0200" stop="20261109120000 +0200" channel="TV3.lt">
-    <title lang="lt">Komisaras Reksas 14/1403</title>
-  </programme>
-  <programme start="20261109120000 +0200" stop="20261109130000 +0200" channel="TV3.lt">
-    <title lang="lt">Vardan šeimos 1/49</title>
-  </programme>
-  <programme start="20261109130000 +0200" stop="20261109140000 +0200" channel="TV3.lt">
-    <title lang="lt">Vardan šeimos 1/50</title>
-  </programme>
-  <programme start="20261109140000 +0200" stop="20261109150000 +0200" channel="TV3.lt">
-    <title lang="lt">Domenika Montero 1/25</title>
-  </programme>
-  <programme start="20261109150000 +0200" stop="20261109153000 +0200" channel="TV3.lt">
-    <title lang="lt">Simpsonai 27/20</title>
-  </programme>
-  <programme start="20261109153000 +0200" stop="20261109160000 +0200" channel="TV3.lt">
-    <title lang="lt">Simpsonai 27/21</title>
-  </programme>
-  <programme start="20261109160000 +0200" stop="20261109162700 +0200" channel="TV3.lt">
-    <title lang="lt">TV3 žinios 222</title>
-  </programme>
-  <programme start="20261109162700 +0200" stop="20261109163000 +0200" channel="TV3.lt">
-    <title lang="lt">TV3 orai 222</title>
-  </programme>
-  <programme start="20261109163000 +0200" stop="20261109183000 +0200" channel="TV3.lt">
-    <title lang="lt">TV pagalba 21/50</title>
-  </programme>
-  <programme start="20261109183000 +0200" stop="20261109192000 +0200" channel="TV3.lt">
-    <title lang="lt">TV3 žinios 313</title>
-  </programme>
-  <programme start="20261109192000 +0200" stop="20261109192700 +0200" channel="TV3.lt">
-    <title lang="lt">TV3 sportas</title>
-  </programme>
-  <programme start="20261109192700 +0200" stop="20261109193000 +0200" channel="TV3.lt">
-    <title lang="lt">TV3 orai 313</title>
-  </programme>
-  <programme start="20261109193000 +0200" stop="20261109200000 +0200" channel="TV3.lt">
-    <title lang="lt">Be tabu 1/39</title>
-  </programme>
-  <programme start="20261109200000 +0200" stop="20261109213000 +0200" channel="TV3.lt">
-    <title lang="lt">Vytaro ferma 4/10</title>
-  </programme>
-  <programme start="20261109213000 +0200" stop="20261109222000 +0200" channel="TV3.lt">
-    <title lang="lt">TV3 vakaro žinios 222</title>
-  </programme>
-  <programme start="20261109222000 +0200" stop="20261109222700 +0200" channel="TV3.lt">
-    <title lang="lt">TV3 sportas</title>
-  </programme>
-  <programme start="20261109222700 +0200" stop="20261109223000 +0200" channel="TV3.lt">
-    <title lang="lt">TV3 orai 222</title>
-  </programme>
-  <programme start="20261109223000 +0200" stop="20261110002500 +0200" channel="TV3.lt">
-    <title lang="lt">Muštinė trauma</title>
+  <programme start="20261116025500 +0200" stop="20261116035500 +0200" channel="LNK.lt">
+    <title lang="lt">Afera</title>
   </programme>
   <programme start="20261110002500 +0200" stop="20261110012500 +0200" channel="TV3.lt">
     <title lang="lt">Dingusiųjų žemė 2/3</title>
@@ -16474,98 +16198,11 @@
   <programme start="20261115210000 +0200" stop="20261115225500 +0200" channel="TV3.lt">
     <title lang="lt">Mirties gniaužtuose</title>
   </programme>
-  <programme start="20261115225500 +0200" stop="20261115235500 +0200" channel="TV3.lt">
+  <programme start="20261115225500 +0200" stop="20261116011000 +0200" channel="TV3.lt">
     <title lang="lt">Samdomas karys</title>
   </programme>
-  <programme start="20261109000000 +0200" stop="20261109010000 +0200" channel="Lietuvos ryto televizija.lt">
-    <title lang="lt">Amerika - didžioji kelionė 1/15</title>
-  </programme>
-  <programme start="20261109010000 +0200" stop="20261109020000 +0200" channel="Lietuvos ryto televizija.lt">
-    <title lang="lt">Vilniaus Babilonas 1/7</title>
-  </programme>
-  <programme start="20261109020000 +0200" stop="20261109023000 +0200" channel="Lietuvos ryto televizija.lt">
-    <title lang="lt">Krepšinio pasaulyje</title>
-  </programme>
-  <programme start="20261109023000 +0200" stop="20261109030000 +0200" channel="Lietuvos ryto televizija.lt">
-    <title lang="lt">Gyvenimas</title>
-  </programme>
-  <programme start="20261109030000 +0200" stop="20261109033000 +0200" channel="Lietuvos ryto televizija.lt">
-    <title lang="lt">Laisvės TV valanda</title>
-  </programme>
-  <programme start="20261109033000 +0200" stop="20261109041000 +0200" channel="Lietuvos ryto televizija.lt">
-    <title lang="lt">Muzikos talentų lyga</title>
-  </programme>
-  <programme start="20261109041000 +0200" stop="20261109050000 +0200" channel="Lietuvos ryto televizija.lt">
-    <title lang="lt">24/7</title>
-  </programme>
-  <programme start="20261109050000 +0200" stop="20261109053000 +0200" channel="Lietuvos ryto televizija.lt">
-    <title lang="lt">Gyvenimas</title>
-  </programme>
-  <programme start="20261109053000 +0200" stop="20261109060000 +0200" channel="Lietuvos ryto televizija.lt">
-    <title lang="lt">Dalelė Lietuvos</title>
-  </programme>
-  <programme start="20261109060000 +0200" stop="20261109063000 +0200" channel="Lietuvos ryto televizija.lt">
-    <title lang="lt">V. Adamkui - 100</title>
-  </programme>
-  <programme start="20261109063000 +0200" stop="20261109073000 +0200" channel="Lietuvos ryto televizija.lt">
-    <title lang="lt">24/7</title>
-  </programme>
-  <programme start="20261109073000 +0200" stop="20261109083000 +0200" channel="Lietuvos ryto televizija.lt">
-    <title lang="lt">Valanda su Valatka</title>
-  </programme>
-  <programme start="20261109083000 +0200" stop="20261109093000 +0200" channel="Lietuvos ryto televizija.lt">
-    <title lang="lt">Gimę po laiminga žvaigžde</title>
-  </programme>
-  <programme start="20261109093000 +0200" stop="20261109103000 +0200" channel="Lietuvos ryto televizija.lt">
-    <title lang="lt">Laisvės TV. Laikykitės ten. Pokalbiai</title>
-  </programme>
-  <programme start="20261109103000 +0200" stop="20261109113000 +0200" channel="Lietuvos ryto televizija.lt">
-    <title lang="lt">Neatrasta Rusija 1/17</title>
-  </programme>
-  <programme start="20261109113000 +0200" stop="20261109123000 +0200" channel="Lietuvos ryto televizija.lt">
-    <title lang="lt">24/7</title>
-  </programme>
-  <programme start="20261109123000 +0200" stop="20261109130000 +0200" channel="Lietuvos ryto televizija.lt">
-    <title lang="lt">Klausimėlis</title>
-  </programme>
-  <programme start="20261109130000 +0200" stop="20261109140000 +0200" channel="Lietuvos ryto televizija.lt">
-    <title lang="lt">Nauja diena</title>
-  </programme>
-  <programme start="20261109140000 +0200" stop="20261109153000 +0200" channel="Lietuvos ryto televizija.lt">
-    <title lang="lt">Senis 17/1</title>
-  </programme>
-  <programme start="20261109153000 +0200" stop="20261109160000 +0200" channel="Lietuvos ryto televizija.lt">
-    <title lang="lt">Noriu dirbti</title>
-  </programme>
-  <programme start="20261109160000 +0200" stop="20261109163000 +0200" channel="Lietuvos ryto televizija.lt">
-    <title lang="lt">Reporteris</title>
-  </programme>
-  <programme start="20261109163000 +0200" stop="20261109173000 +0200" channel="Lietuvos ryto televizija.lt">
-    <title lang="lt">Lietuva tiesiogiai</title>
-  </programme>
-  <programme start="20261109173000 +0200" stop="20261109180000 +0200" channel="Lietuvos ryto televizija.lt">
-    <title lang="lt">Krepšinio pasaulyje</title>
-  </programme>
-  <programme start="20261109180000 +0200" stop="20261109183000 +0200" channel="Lietuvos ryto televizija.lt">
-    <title lang="lt">Reporteris</title>
-  </programme>
-  <programme start="20261109183000 +0200" stop="20261109200000 +0200" channel="Lietuvos ryto televizija.lt">
-    <title lang="lt">Laisvės TV</title>
-  </programme>
-  <programme start="20261109200000 +0200" stop="20261109202500 +0200" channel="Lietuvos ryto televizija.lt">
-    <title lang="lt">Reporteris</title>
-  </programme>
-  <programme start="20261109202500 +0200" stop="20261109212500 +0200" channel="Lietuvos ryto televizija.lt">
-    <title lang="lt">Lietuva tiesiogiai</title>
-  </programme>
-  <programme start="20261109212500 +0200" stop="20261109223000 +0200" channel="Lietuvos ryto televizija.lt">
-    <title lang="lt">Neatrasta Rusija 1/19</title>
-  </programme>
-  <programme start="20261109223000 +0200" stop="20261109230000 +0200" channel="Lietuvos ryto televizija.lt">
-    <title lang="lt">Reporteris</title>
-  </programme>
-  <programme start="20261109230000 +0200" stop="20261110000000 +0200" channel="Lietuvos ryto televizija.lt">
-    <title lang="lt">Nauja diena</title>
+  <programme start="20261116011000 +0200" stop="20261116021000 +0200" channel="TV3.lt">
+    <title lang="lt">Laivų mūšis</title>
   </programme>
   <programme start="20261110000000 +0200" stop="20261110010000 +0200" channel="Lietuvos ryto televizija.lt">
     <title lang="lt">Gimę po laiminga žvaigžde</title>
@@ -17089,92 +16726,17 @@
   <programme start="20261115230000 +0200" stop="20261116000000 +0200" channel="Lietuvos ryto televizija.lt">
     <title lang="lt">Amerika - didžioji kelionė 1/21</title>
   </programme>
-  <programme start="20261109000000 +0200" stop="20261109010000 +0200" channel="Info TV.lt">
-    <title lang="lt">Tarptautinis galiūnų turnyras "Baltija 2026". Druskininkai</title>
+  <programme start="20261116000000 +0200" stop="20261116010000 +0200" channel="Lietuvos ryto televizija.lt">
+    <title lang="lt">Amerika - didžioji kelionė 1/23</title>
   </programme>
-  <programme start="20261109010000 +0200" stop="20261109021500 +0200" channel="Info TV.lt">
-    <title lang="lt">Muzikos detektyvai 2/2</title>
+  <programme start="20261116010000 +0200" stop="20261116020000 +0200" channel="Lietuvos ryto televizija.lt">
+    <title lang="lt">Vilniaus Babilonas: Šventųjų miestas 1/3</title>
   </programme>
-  <programme start="20261109021500 +0200" stop="20261109031000 +0200" channel="Info TV.lt">
-    <title lang="lt">Bus visko</title>
+  <programme start="20261116020000 +0200" stop="20261116023000 +0200" channel="Lietuvos ryto televizija.lt">
+    <title lang="lt">Krepšinio pasaulyje</title>
   </programme>
-  <programme start="20261109031000 +0200" stop="20261109040000 +0200" channel="Info TV.lt">
-    <title lang="lt">Šeškinės 20</title>
-  </programme>
-  <programme start="20261109040000 +0200" stop="20261109043000 +0200" channel="Info TV.lt">
-    <title lang="lt">Autopilotas</title>
-  </programme>
-  <programme start="20261109043000 +0200" stop="20261109050000 +0200" channel="Info TV.lt">
-    <title lang="lt">Tauro ragas</title>
-  </programme>
-  <programme start="20261109050000 +0200" stop="20261109053000 +0200" channel="Info TV.lt">
-    <title lang="lt">Gamtoje nėra pasakų</title>
-  </programme>
-  <programme start="20261109053000 +0200" stop="20261109060000 +0200" channel="Info TV.lt">
-    <title lang="lt">Apie žūklę</title>
-  </programme>
-  <programme start="20261109060000 +0200" stop="20261109064500 +0200" channel="Info TV.lt">
-    <title lang="lt">Žinios</title>
-  </programme>
-  <programme start="20261109064500 +0200" stop="20261109073500 +0200" channel="Info TV.lt">
-    <title lang="lt">Labas vakaras, Lietuva</title>
-  </programme>
-  <programme start="20261109073500 +0200" stop="20261109080000 +0200" channel="Info TV.lt">
-    <title lang="lt">Žinios</title>
-  </programme>
-  <programme start="20261109080000 +0200" stop="20261109090000 +0200" channel="Info TV.lt">
-    <title lang="lt">Nuo... Iki... 21</title>
-  </programme>
-  <programme start="20261109090000 +0200" stop="20261109100000 +0200" channel="Info TV.lt">
-    <title lang="lt">Šaltojo karo šnipai 1/3</title>
-  </programme>
-  <programme start="20261109100000 +0200" stop="20261109110000 +0200" channel="Info TV.lt">
-    <title lang="lt">Policija 24/7 29</title>
-  </programme>
-  <programme start="20261109110000 +0200" stop="20261109120000 +0200" channel="Info TV.lt">
-    <title lang="lt">Europa iš paukščio skrydžio 1/6</title>
-  </programme>
-  <programme start="20261109120000 +0200" stop="20261109123000 +0200" channel="Info TV.lt">
-    <title lang="lt">Žinios</title>
-  </programme>
-  <programme start="20261109123000 +0200" stop="20261109133000 +0200" channel="Info TV.lt">
-    <title lang="lt">Už ar prieš?</title>
-  </programme>
-  <programme start="20261109133000 +0200" stop="20261109143000 +0200" channel="Info TV.lt">
-    <title lang="lt">Šeškinės 20</title>
-  </programme>
-  <programme start="20261109143000 +0200" stop="20261109160000 +0200" channel="Info TV.lt">
-    <title lang="lt">Muzikos detektyvai 2/2</title>
-  </programme>
-  <programme start="20261109160000 +0200" stop="20261109170000 +0200" channel="Info TV.lt">
-    <title lang="lt">Betanės Hjuz lobiai 3/3</title>
-  </programme>
-  <programme start="20261109170000 +0200" stop="20261109180000 +0200" channel="Info TV.lt">
-    <title lang="lt">Šaltojo karo šnipai 1/4</title>
-  </programme>
-  <programme start="20261109180000 +0200" stop="20261109190000 +0200" channel="Info TV.lt">
-    <title lang="lt">Policija 24/7 30</title>
-  </programme>
-  <programme start="20261109190000 +0200" stop="20261109200000 +0200" channel="Info TV.lt">
-    <title lang="lt">Europa iš paukščio skrydžio 2/1</title>
-  </programme>
-  <programme start="20261109200000 +0200" stop="20261109203000 +0200" channel="Info TV.lt">
-    <title lang="lt">Žinios</title>
-  </programme>
-  <programme start="20261109203000 +0200" stop="20261109210000 +0200" channel="Info TV.lt">
-    <title lang="lt">KK2</title>
-  </programme>
-  <programme start="20261109210000 +0200" stop="20261109220000 +0200" channel="Info TV.lt">
-    <title lang="lt">Betanės Hjuz lobiai 3/4</title>
-  </programme>
-  <programme start="20261109220000 +0200" stop="20261109230000 +0200" channel="Info TV.lt">
-    <title lang="lt">Labas vakaras, Lietuva</title>
-  </programme>
-  <programme start="20261109230000 +0200" stop="20261109234500 +0200" channel="Info TV.lt">
-    <title lang="lt">Žinios</title>
-  </programme>
-  <programme start="20261109234500 +0200" stop="20261110002000 +0200" channel="Info TV.lt">
-    <title lang="lt">Dabar pasaulyje</title>
+  <programme start="20261116023000 +0200" stop="20261116033000 +0200" channel="Lietuvos ryto televizija.lt">
+    <title lang="lt">Gyvenimas</title>
   </programme>
   <programme start="20261110002000 +0200" stop="20261110004500 +0200" channel="Info TV.lt">
     <title lang="lt">Žinios</title>
@@ -17758,65 +17320,14 @@
   <programme start="20261115230000 +0200" stop="20261116000000 +0200" channel="Info TV.lt">
     <title lang="lt">Biblijos paslaptys 5</title>
   </programme>
-  <programme start="20261109024000 +0200" stop="20261109034000 +0200" channel="BTV.lt">
-    <title lang="lt">Nepaprastos lenktynės 11</title>
+  <programme start="20261116000000 +0200" stop="20261116010000 +0200" channel="Info TV.lt">
+    <title lang="lt">Lietuvos galiūnų čempionatas. III-iasis etapas</title>
   </programme>
-  <programme start="20261109034000 +0200" stop="20261109043000 +0200" channel="BTV.lt">
-    <title lang="lt">Skubi pagalba 5/10</title>
+  <programme start="20261116010000 +0200" stop="20261116021500 +0200" channel="Info TV.lt">
+    <title lang="lt">Muzikos detektyvai</title>
   </programme>
-  <programme start="20261109043000 +0200" stop="20261109052000 +0200" channel="BTV.lt">
-    <title lang="lt">Žinios</title>
-  </programme>
-  <programme start="20261109052000 +0200" stop="20261109061000 +0200" channel="BTV.lt">
-    <title lang="lt">Pertrauka</title>
-  </programme>
-  <programme start="20261109061000 +0200" stop="20261109073000 +0200" channel="BTV.lt">
-    <title lang="lt">Mano virtuvė geriausia 10/22</title>
-  </programme>
-  <programme start="20261109073000 +0200" stop="20261109083000 +0200" channel="BTV.lt">
-    <title lang="lt">Reali mistika 7/36</title>
-  </programme>
-  <programme start="20261109083000 +0200" stop="20261109093000 +0200" channel="BTV.lt">
-    <title lang="lt">Kobra 11 9/8</title>
-  </programme>
-  <programme start="20261109093000 +0200" stop="20261109103000 +0200" channel="BTV.lt">
-    <title lang="lt">Kodas 4/139</title>
-  </programme>
-  <programme start="20261109103000 +0200" stop="20261109113000 +0200" channel="BTV.lt">
-    <title lang="lt">Mentalistas 1/20</title>
-  </programme>
-  <programme start="20261109113000 +0200" stop="20261109123000 +0200" channel="BTV.lt">
-    <title lang="lt">CSI. Niujorkas 2/16</title>
-  </programme>
-  <programme start="20261109123000 +0200" stop="20261109133000 +0200" channel="BTV.lt">
-    <title lang="lt">Skubi pagalba 5/11</title>
-  </programme>
-  <programme start="20261109133000 +0200" stop="20261109150000 +0200" channel="BTV.lt">
-    <title lang="lt">Mano virtuvė geriausia 10/23</title>
-  </programme>
-  <programme start="20261109150000 +0200" stop="20261109160000 +0200" channel="BTV.lt">
-    <title lang="lt">Žemiau denio 3/11</title>
-  </programme>
-  <programme start="20261109160000 +0200" stop="20261109170000 +0200" channel="BTV.lt">
-    <title lang="lt">Kodas 4/140</title>
-  </programme>
-  <programme start="20261109170000 +0200" stop="20261109180000 +0200" channel="BTV.lt">
-    <title lang="lt">Mentalistas 1/21</title>
-  </programme>
-  <programme start="20261109180000 +0200" stop="20261109190000 +0200" channel="BTV.lt">
-    <title lang="lt">CSI. Niujorkas 2/17</title>
-  </programme>
-  <programme start="20261109190000 +0200" stop="20261109200000 +0200" channel="BTV.lt">
-    <title lang="lt">Greitojo reagavimo būrys 5/17</title>
-  </programme>
-  <programme start="20261109200000 +0200" stop="20261109210000 +0200" channel="BTV.lt">
-    <title lang="lt">Kobra 11 9/9</title>
-  </programme>
-  <programme start="20261109210000 +0200" stop="20261109225500 +0200" channel="BTV.lt">
-    <title lang="lt">Tamsusis bokštas</title>
-  </programme>
-  <programme start="20261109225500 +0200" stop="20261110011500 +0200" channel="BTV.lt">
-    <title lang="lt">Atvykimas</title>
+  <programme start="20261116021500 +0200" stop="20261116031500 +0200" channel="Info TV.lt">
+    <title lang="lt">Bus visko</title>
   </programme>
   <programme start="20261110011500 +0200" stop="20261110025000 +0200" channel="BTV.lt">
     <title lang="lt">Aš - žvaigždė... Išleiskite mane! 23/22</title>
@@ -18208,83 +17719,14 @@
   <programme start="20261115213000 +0200" stop="20261115233500 +0200" channel="BTV.lt">
     <title lang="lt">Nešventa</title>
   </programme>
-  <programme start="20261115233500 +0200" stop="20261116003500 +0200" channel="BTV.lt">
+  <programme start="20261115233500 +0200" stop="20261116014000 +0200" channel="BTV.lt">
     <title lang="lt">Paskutinė dvikova</title>
   </programme>
-  <programme start="20261109010000 +0200" stop="20261109013000 +0200" channel="TV6.lt">
-    <title lang="lt">NBA apžvalga 3</title>
+  <programme start="20261116014000 +0200" stop="20261116025500 +0200" channel="BTV.lt">
+    <title lang="lt">Nepaprastos lenktynės 1</title>
   </programme>
-  <programme start="20261109013000 +0200" stop="20261109023000 +0200" channel="TV6.lt">
-    <title lang="lt">Gero vakaro šou 4/3</title>
-  </programme>
-  <programme start="20261109023000 +0200" stop="20261109055000 +0200" channel="TV6.lt">
-    <title lang="lt">Gero vakaro šou 4/4</title>
-  </programme>
-  <programme start="20261109055000 +0200" stop="20261109062500 +0200" channel="TV6.lt">
-    <title lang="lt">Emigrantai. Apelsinai 1/11</title>
-  </programme>
-  <programme start="20261109062500 +0200" stop="20261109070000 +0200" channel="TV6.lt">
-    <title lang="lt">Emigrantai. Apelsinai 1/12</title>
-  </programme>
-  <programme start="20261109070000 +0200" stop="20261109073000 +0200" channel="TV6.lt">
-    <title lang="lt">Laimės namelis 4/20</title>
-  </programme>
-  <programme start="20261109073000 +0200" stop="20261109080000 +0200" channel="TV6.lt">
-    <title lang="lt">Laimės namelis 4/21</title>
-  </programme>
-  <programme start="20261109080000 +0200" stop="20261109090000 +0200" channel="TV6.lt">
-    <title lang="lt">Volkeris, Teksaso reindžeris 3/1</title>
-  </programme>
-  <programme start="20261109090000 +0200" stop="20261109100000 +0200" channel="TV6.lt">
-    <title lang="lt">Volkeris, Teksaso reindžeris 3/2</title>
-  </programme>
-  <programme start="20261109100000 +0200" stop="20261109110000 +0200" channel="TV6.lt">
-    <title lang="lt">Kobra 11 12/3</title>
-  </programme>
-  <programme start="20261109110000 +0200" stop="20261109113000 +0200" channel="TV6.lt">
-    <title lang="lt">Didysis dešimtukas 2</title>
-  </programme>
-  <programme start="20261109113000 +0200" stop="20261109120000 +0200" channel="TV6.lt">
-    <title lang="lt">Didysis dešimtukas 3</title>
-  </programme>
-  <programme start="20261109120000 +0200" stop="20261109123000 +0200" channel="TV6.lt">
-    <title lang="lt">Pasmerkti 4 6/11</title>
-  </programme>
-  <programme start="20261109123000 +0200" stop="20261109130000 +0200" channel="TV6.lt">
-    <title lang="lt">Formulės 1 apžvalga</title>
-  </programme>
-  <programme start="20261109130000 +0200" stop="20261109140000 +0200" channel="TV6.lt">
-    <title lang="lt">Įstatymas ir tvarka. Organizuotas nusikalstamumas 2/7</title>
-  </programme>
-  <programme start="20261109140000 +0200" stop="20261109150000 +0200" channel="TV6.lt">
-    <title lang="lt">Volkeris, Teksaso reindžeris 4/9</title>
-  </programme>
-  <programme start="20261109150000 +0200" stop="20261109160000 +0200" channel="TV6.lt">
-    <title lang="lt">Volkeris, Teksaso reindžeris 4/10</title>
-  </programme>
-  <programme start="20261109160000 +0200" stop="20261109170000 +0200" channel="TV6.lt">
-    <title lang="lt">Juokingiausi Amerikos namų vaizdeliai 28/21</title>
-  </programme>
-  <programme start="20261109170000 +0200" stop="20261109180000 +0200" channel="TV6.lt">
-    <title lang="lt">Kobra 11 12/4</title>
-  </programme>
-  <programme start="20261109180000 +0200" stop="20261109190000 +0200" channel="TV6.lt">
-    <title lang="lt">Kobra 11 12/6</title>
-  </programme>
-  <programme start="20261109190000 +0200" stop="20261109193000 +0200" channel="TV6.lt">
-    <title lang="lt">Pasmerkti 4 6/13</title>
-  </programme>
-  <programme start="20261109193000 +0200" stop="20261109200000 +0200" channel="TV6.lt">
-    <title lang="lt">Pasmerkti 4 6/14</title>
-  </programme>
-  <programme start="20261109200000 +0200" stop="20261109210000 +0200" channel="TV6.lt">
-    <title lang="lt">Įstatymas ir tvarka 24/22</title>
-  </programme>
-  <programme start="20261109210000 +0200" stop="20261109231000 +0200" channel="TV6.lt">
-    <title lang="lt">Tango 1</title>
-  </programme>
-  <programme start="20261109231000 +0200" stop="20261110014500 +0200" channel="TV6.lt">
-    <title lang="lt">Formulė 1. Brazilijos GP lenktynės</title>
+  <programme start="20261116025500 +0200" stop="20261116035500 +0200" channel="BTV.lt">
+    <title lang="lt">Skubi pagalba 5/14</title>
   </programme>
   <programme start="20261110014500 +0200" stop="20261110055000 +0200" channel="TV6.lt">
     <title lang="lt">Milijonieriaus palikimas</title>
@@ -18688,77 +18130,14 @@
   <programme start="20261115223000 +0200" stop="20261115230000 +0200" channel="TV6.lt">
     <title lang="lt">NBA apžvalga 4</title>
   </programme>
-  <programme start="20261115230000 +0200" stop="20261116000000 +0200" channel="TV6.lt">
+  <programme start="20261115230000 +0200" stop="20261116013000 +0200" channel="TV6.lt">
     <title lang="lt">NBA rungtynės. Los Andželo „Lakers“ - Finikso „Suns“</title>
   </programme>
-  <programme start="20261109004500 +0200" stop="20261109022000 +0200" channel="TV8.lt">
-    <title lang="lt">Meilė Venecijoje</title>
+  <programme start="20261116013000 +0200" stop="20261116022000 +0200" channel="TV6.lt">
+    <title lang="lt">Gero vakaro šou 4/7</title>
   </programme>
-  <programme start="20261109022000 +0200" stop="20261109031000 +0200" channel="TV8.lt">
-    <title lang="lt">Palikimas 4/151</title>
-  </programme>
-  <programme start="20261109031000 +0200" stop="20261109040500 +0200" channel="TV8.lt">
-    <title lang="lt">Palikimas 4/152</title>
-  </programme>
-  <programme start="20261109040500 +0200" stop="20261109063000 +0200" channel="TV8.lt">
-    <title lang="lt">Išlikimas. Australija 8/20</title>
-  </programme>
-  <programme start="20261109063000 +0200" stop="20261109064000 +0200" channel="TV8.lt">
-    <title lang="lt">Pelytė Tilda 1/6</title>
-  </programme>
-  <programme start="20261109064000 +0200" stop="20261109071000 +0200" channel="TV8.lt">
-    <title lang="lt">Gėlių zuikučiai 2/5</title>
-  </programme>
-  <programme start="20261109071000 +0200" stop="20261109074000 +0200" channel="TV8.lt">
-    <title lang="lt">Šunyčiai patruliai 10/6</title>
-  </programme>
-  <programme start="20261109074000 +0200" stop="20261109081000 +0200" channel="TV8.lt">
-    <title lang="lt">Kung fu panda. Likimo letenos 1/8</title>
-  </programme>
-  <programme start="20261109081000 +0200" stop="20261109100000 +0200" channel="TV8.lt">
-    <title lang="lt">TV pagalba 18/59</title>
-  </programme>
-  <programme start="20261109100000 +0200" stop="20261109110000 +0200" channel="TV8.lt">
-    <title lang="lt">Gęstančios nakties pažadas 1/55</title>
-  </programme>
-  <programme start="20261109110000 +0200" stop="20261109120000 +0200" channel="TV8.lt">
-    <title lang="lt">Gęstančios nakties pažadas 1/56</title>
-  </programme>
-  <programme start="20261109120000 +0200" stop="20261109130000 +0200" channel="TV8.lt">
-    <title lang="lt">Melo kilpa 1/6</title>
-  </programme>
-  <programme start="20261109130000 +0200" stop="20261109140000 +0200" channel="TV8.lt">
-    <title lang="lt">Nenugalima meilė 46</title>
-  </programme>
-  <programme start="20261109140000 +0200" stop="20261109153000 +0200" channel="TV8.lt">
-    <title lang="lt">Laukinės bitės 1/106</title>
-  </programme>
-  <programme start="20261109153000 +0200" stop="20261109170000 +0200" channel="TV8.lt">
-    <title lang="lt">Likimo susieti 1/74</title>
-  </programme>
-  <programme start="20261109170000 +0200" stop="20261109180000 +0200" channel="TV8.lt">
-    <title lang="lt">Grei anatomija 15/7</title>
-  </programme>
-  <programme start="20261109180000 +0200" stop="20261109190000 +0200" channel="TV8.lt">
-    <title lang="lt">Seserys 7</title>
-  </programme>
-  <programme start="20261109190000 +0200" stop="20261109200000 +0200" channel="TV8.lt">
-    <title lang="lt">Seserys 8</title>
-  </programme>
-  <programme start="20261109200000 +0200" stop="20261109203000 +0200" channel="TV8.lt">
-    <title lang="lt">Meškiukai Gamiai 1/102</title>
-  </programme>
-  <programme start="20261109203000 +0200" stop="20261109210000 +0200" channel="TV8.lt">
-    <title lang="lt">Čipas ir Deilas skuba į pagalbą 1/140</title>
-  </programme>
-  <programme start="20261109210000 +0200" stop="20261109225500 +0200" channel="TV8.lt">
-    <title lang="lt">Miestas, kaimas, bučinys</title>
-  </programme>
-  <programme start="20261109225500 +0200" stop="20261109235500 +0200" channel="TV8.lt">
-    <title lang="lt">Seserys 7</title>
-  </programme>
-  <programme start="20261109235500 +0200" stop="20261110005000 +0200" channel="TV8.lt">
-    <title lang="lt">Seserys 8</title>
+  <programme start="20261116022000 +0200" stop="20261116032000 +0200" channel="TV6.lt">
+    <title lang="lt">Gero vakaro šou 4/8</title>
   </programme>
   <programme start="20261110005000 +0200" stop="20261110022500 +0200" channel="TV8.lt">
     <title lang="lt">TV pagalba 18/59</title>
@@ -19183,47 +18562,11 @@
   <programme start="20261115210000 +0200" stop="20261115231500 +0200" channel="TV8.lt">
     <title lang="lt">Kambarys</title>
   </programme>
-  <programme start="20261115231500 +0200" stop="20261116001500 +0200" channel="TV8.lt">
+  <programme start="20261115231500 +0200" stop="20261116010000 +0200" channel="TV8.lt">
     <title lang="lt">Einsli Makgregor detektyvai. Verpėjo byla</title>
   </programme>
-  <programme start="20261109000000 +0200" stop="20261109015000 +0200" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">Serie A. "Torino" - "Lecce" 46</title>
-  </programme>
-  <programme start="20261109015000 +0200" stop="20261109031000 +0200" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">MotoGP 193</title>
-  </programme>
-  <programme start="20261109031000 +0200" stop="20261109051000 +0200" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">MotoGP 194</title>
-  </programme>
-  <programme start="20261109051000 +0200" stop="20261109070000 +0200" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">Serie A. "Inter" - "Como" 49</title>
-  </programme>
-  <programme start="20261109070000 +0200" stop="20261109085000 +0200" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">Nyderlandų lyga. "Heerenveen" - "Feyenoord" 11</title>
-  </programme>
-  <programme start="20261109085000 +0200" stop="20261109110000 +0200" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">LaLiga. "Osasuna" - "Athletic" 59</title>
-  </programme>
-  <programme start="20261109110000 +0200" stop="20261109130000 +0200" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">Vokietijos ledo ritulio taurė. Vokietija - Latvija 2</title>
-  </programme>
-  <programme start="20261109130000 +0200" stop="20261109150000 +0200" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">Vokietijos ledo ritulio taurė. Latvija - Austrija 3</title>
-  </programme>
-  <programme start="20261109150000 +0200" stop="20261109165500 +0200" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">Krepšinis - NCAA. Richmond - Temple 3</title>
-  </programme>
-  <programme start="20261109165500 +0200" stop="20261109184900 +0200" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">Krepšinis - NCAA. Penn State - Pittsburgh Panthers 4</title>
-  </programme>
-  <programme start="20261109184900 +0200" stop="20261109210500 +0200" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">ATP Masters Paris 2026 turnyras 18</title>
-  </programme>
-  <programme start="20261109210500 +0200" stop="20261109230000 +0200" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">NHL. "Bruins" - "Panthers" 7</title>
-  </programme>
-  <programme start="20261109230000 +0200" stop="20261110020000 +0200" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">UFC 191</title>
+  <programme start="20261116010000 +0200" stop="20261116020000 +0200" channel="TV8.lt">
+    <title lang="lt">Škotiškas meilės planas</title>
   </programme>
   <programme start="20261110020000 +0200" stop="20261110044900 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">NBA rungtynės. "Wizards" - "Pistons" 30</title>
@@ -19231,37 +18574,43 @@
   <programme start="20261110044900 +0200" stop="20261110070000 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Eurolygos rungtynės. "Olimpia Milano" - "Valencia" 71</title>
   </programme>
-  <programme start="20261110070000 +0200" stop="20261110090000 +0200" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261110070000 +0200" stop="20261110085500 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Serie A. "Torino" - "Lecce" 46</title>
   </programme>
-  <programme start="20261110090000 +0200" stop="20261110110000 +0200" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261110085500 +0200" stop="20261110105500 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Serie A. "Roma" - "Sassuolo" 47</title>
   </programme>
-  <programme start="20261110110000 +0200" stop="20261110113000 +0200" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261110105500 +0200" stop="20261110112500 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">GP Confidential 21</title>
   </programme>
-  <programme start="20261110113000 +0200" stop="20261110125000 +0200" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261110112500 +0200" stop="20261110122500 +0200" channel="GO3 Sport 1 (LT).lt">
+    <title lang="lt">MotoGP. Qatar GP. Moto3 Race 192</title>
+  </programme>
+  <programme start="20261110122500 +0200" stop="20261110134000 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">MotoGP 193</title>
   </programme>
-  <programme start="20261110125000 +0200" stop="20261110142000 +0200" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261110134000 +0200" stop="20261110145500 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">MotoGP 194</title>
   </programme>
-  <programme start="20261110142000 +0200" stop="20261110163500 +0200" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261110145500 +0200" stop="20261110165500 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">NBA rungtynės. Filadelfijos „76ers“ - Čikagos „Bulls“</title>
   </programme>
-  <programme start="20261110163500 +0200" stop="20261110185000 +0200" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261110165500 +0200" stop="20261110185000 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Krepšinis - NCAA. Grambling - Texas 5</title>
   </programme>
   <programme start="20261110185000 +0200" stop="20261110210000 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Europos taurė. "Neptūnas" - "Slask" 27</title>
   </programme>
-  <programme start="20261110210000 +0200" stop="20261110230000 +0200" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261110210000 +0200" stop="20261110225000 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">LaLiga. "Valencia" - "Real" 60</title>
   </programme>
-  <programme start="20261110230000 +0200" stop="20261111010000 +0200" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261110225000 +0200" stop="20261111004500 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">LaLiga. "Atlético" - "Barcelona" 61</title>
   </programme>
-  <programme start="20261111010000 +0200" stop="20261111030000 +0200" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261111004500 +0200" stop="20261111011000 +0200" channel="GO3 Sport 1 (LT).lt">
+    <title lang="lt">Fastzone 30</title>
+  </programme>
+  <programme start="20261111011000 +0200" stop="20261111030000 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Krepšinis - NCAA. Richmond - Temple 3</title>
   </programme>
   <programme start="20261111030000 +0200" stop="20261111053000 +0200" channel="GO3 Sport 1 (LT).lt">
@@ -19444,44 +18793,11 @@
   <programme start="20261115223000 +0200" stop="20261115230000 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">NBA apžvalga 3604</title>
   </programme>
-  <programme start="20261115230000 +0200" stop="20261116000000 +0200" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261115230000 +0200" stop="20261116013000 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">NBA rungtynės. Los Andželo „Lakers“ - Finikso „Suns“</title>
   </programme>
-  <programme start="20261109005400 +0200" stop="20261109024500 +0200" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">Serie A. "Roma" - "Sassuolo" 47</title>
-  </programme>
-  <programme start="20261109024500 +0200" stop="20261109051500 +0200" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">LaLiga. "Osasuna" - "Athletic" 59</title>
-  </programme>
-  <programme start="20261109051500 +0200" stop="20261109071000 +0200" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">NHL. "Bruins" - "Panthers" 7</title>
-  </programme>
-  <programme start="20261109071000 +0200" stop="20261109100500 +0200" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">One Championship 246</title>
-  </programme>
-  <programme start="20261109100500 +0200" stop="20261109121000 +0200" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">NBA rungtynės. Filadelfijos „76ers“ - Čikagos „Bulls“</title>
-  </programme>
-  <programme start="20261109121000 +0200" stop="20261109140500 +0200" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">Eurolygos rungtynės. "Partizan" - "Maccabi" 74</title>
-  </programme>
-  <programme start="20261109140500 +0200" stop="20261109160000 +0200" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">Ligue 1. PSG - "Troyes" 11</title>
-  </programme>
-  <programme start="20261109160000 +0200" stop="20261109180000 +0200" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">LaLiga. "Atlético" - "Barcelona" 61</title>
-  </programme>
-  <programme start="20261109180000 +0200" stop="20261109200000 +0200" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">Vokietijos ledo ritulio taurė. Vokietija - Latvija 2</title>
-  </programme>
-  <programme start="20261109200000 +0200" stop="20261109215500 +0200" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">Krepšinis - NCAA. Richmond - Temple 3</title>
-  </programme>
-  <programme start="20261109215500 +0200" stop="20261109235000 +0200" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">Krepšinis - NCAA. Penn State - Pittsburgh Panthers 4</title>
-  </programme>
-  <programme start="20261109235000 +0200" stop="20261110001500 +0200" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">NBA apžvalga 3603</title>
+  <programme start="20261116013000 +0200" stop="20261116023000 +0200" channel="GO3 Sport 1 (LT).lt">
+    <title lang="lt">Regbis. Tautų čempionatas 18</title>
   </programme>
   <programme start="20261110001500 +0200" stop="20261110020500 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Serie A. "Napoli" - "Lazio" 48</title>
@@ -19492,37 +18808,37 @@
   <programme start="20261110050500 +0200" stop="20261110070000 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Bundesliga. "Cologne" - "Bayer" 23</title>
   </programme>
-  <programme start="20261110070000 +0200" stop="20261110090000 +0200" channel="GO3 Sport 2 (LT).lt">
+  <programme start="20261110070000 +0200" stop="20261110085500 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Vokietijos ledo ritulio taurė. Latvija - Slovakija 1</title>
   </programme>
-  <programme start="20261110090000 +0200" stop="20261110110000 +0200" channel="GO3 Sport 2 (LT).lt">
+  <programme start="20261110085500 +0200" stop="20261110104000 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Vokietijos ledo ritulio taurė. Vokietija - Latvija 2</title>
   </programme>
-  <programme start="20261110110000 +0200" stop="20261110130000 +0200" channel="GO3 Sport 2 (LT).lt">
+  <programme start="20261110104000 +0200" stop="20261110123500 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Vokietijos ledo ritulio taurė. Latvija - Austrija 3</title>
   </programme>
-  <programme start="20261110130000 +0200" stop="20261110150000 +0200" channel="GO3 Sport 2 (LT).lt">
+  <programme start="20261110123500 +0200" stop="20261110143000 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Krepšinis - NCAA. Grambling - Texas 5</title>
   </programme>
-  <programme start="20261110150000 +0200" stop="20261110170000 +0200" channel="GO3 Sport 2 (LT).lt">
+  <programme start="20261110143000 +0200" stop="20261110170500 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">ATP Masters Paris 2026 turnyras 18</title>
   </programme>
-  <programme start="20261110170000 +0200" stop="20261110190000 +0200" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">Ligue 1. PSG - "Troyes" 11</title>
+  <programme start="20261110170500 +0200" stop="20261110190000 +0200" channel="GO3 Sport 2 (LT).lt">
+    <title lang="lt">Serie A. "Inter" - "Como" 49</title>
   </programme>
-  <programme start="20261110190000 +0200" stop="20261110210000 +0200" channel="GO3 Sport 2 (LT).lt">
+  <programme start="20261110190000 +0200" stop="20261110205500 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Nyderlandų lyga. "Heerenveen" - "Feyenoord" 11</title>
   </programme>
-  <programme start="20261110210000 +0200" stop="20261110231000 +0200" channel="GO3 Sport 2 (LT).lt">
+  <programme start="20261110205500 +0200" stop="20261110231000 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">NBA rungtynės. "Wizards" - "Pistons" 30</title>
   </programme>
-  <programme start="20261110231000 +0200" stop="20261111011000 +0200" channel="GO3 Sport 2 (LT).lt">
+  <programme start="20261110231000 +0200" stop="20261111010000 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Europos taurė. "Neptūnas" - "Slask" 27</title>
   </programme>
-  <programme start="20261111011000 +0200" stop="20261111023000 +0200" channel="GO3 Sport 2 (LT).lt">
+  <programme start="20261111010000 +0200" stop="20261111021500 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">MotoGP 193</title>
   </programme>
-  <programme start="20261111023000 +0200" stop="20261111040000 +0200" channel="GO3 Sport 2 (LT).lt">
+  <programme start="20261111021500 +0200" stop="20261111040000 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">MotoGP 194</title>
   </programme>
   <programme start="20261111040000 +0200" stop="20261111070000 +0200" channel="GO3 Sport 2 (LT).lt">
@@ -19696,32 +19012,11 @@
   <programme start="20261115213000 +0200" stop="20261115233000 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Tenisas: ATP "World Tour" finalai 2</title>
   </programme>
-  <programme start="20261115233000 +0200" stop="20261116003000 +0200" channel="GO3 Sport 2 (LT).lt">
+  <programme start="20261115233000 +0200" stop="20261116013000 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Šveicarijos lyga 32</title>
   </programme>
-  <programme start="20261109040000 +0200" stop="20261109060000 +0200" channel="2TV.lt">
-    <title lang="lt">Sal2</title>
-  </programme>
-  <programme start="20261109060000 +0200" stop="20261109090000 +0200" channel="2TV.lt">
-    <title lang="lt">Amžini hitai</title>
-  </programme>
-  <programme start="20261109090000 +0200" stop="20261109110000 +0200" channel="2TV.lt">
-    <title lang="lt">Pabun2</title>
-  </programme>
-  <programme start="20261109110000 +0200" stop="20261109160000 +0200" channel="2TV.lt">
-    <title lang="lt">Nenuobo2</title>
-  </programme>
-  <programme start="20261109160000 +0200" stop="20261109170000 +0200" channel="2TV.lt">
-    <title lang="lt">Šok TikTok</title>
-  </programme>
-  <programme start="20261109170000 +0200" stop="20261109180000 +0200" channel="2TV.lt">
-    <title lang="lt">Pagaminta Lietuvoje 115</title>
-  </programme>
-  <programme start="20261109180000 +0200" stop="20261109230000 +0200" channel="2TV.lt">
-    <title lang="lt">Pa2kim</title>
-  </programme>
-  <programme start="20261109230000 +0200" stop="20261110040000 +0200" channel="2TV.lt">
-    <title lang="lt">2zgės</title>
+  <programme start="20261116013000 +0200" stop="20261116023000 +0200" channel="GO3 Sport 2 (LT).lt">
+    <title lang="lt">One Championship 256</title>
   </programme>
   <programme start="20261110040000 +0200" stop="20261110060000 +0200" channel="2TV.lt">
     <title lang="lt">Sal2</title>
@@ -19863,87 +19158,6 @@
   </programme>
   <programme start="20261115230000 +0200" stop="20261116000000 +0200" channel="2TV.lt">
     <title lang="lt">2TV muzika</title>
-  </programme>
-  <programme start="20261109004500 +0200" stop="20261109014500 +0200" channel="TV1.lt">
-    <title lang="lt">Tie, kurie žudo 7</title>
-  </programme>
-  <programme start="20261109014500 +0200" stop="20261109024000 +0200" channel="TV1.lt">
-    <title lang="lt">Tie, kurie žudo 8</title>
-  </programme>
-  <programme start="20261109024000 +0200" stop="20261109043000 +0200" channel="TV1.lt">
-    <title lang="lt">Nebylus liudijimas 28/1</title>
-  </programme>
-  <programme start="20261109043000 +0200" stop="20261109045500 +0200" channel="TV1.lt">
-    <title lang="lt">Išmanioji revoliucija</title>
-  </programme>
-  <programme start="20261109045500 +0200" stop="20261109052000 +0200" channel="TV1.lt">
-    <title lang="lt">Ateities klasė</title>
-  </programme>
-  <programme start="20261109052000 +0200" stop="20261109060000 +0200" channel="TV1.lt">
-    <title lang="lt">Pertrauka</title>
-  </programme>
-  <programme start="20261109060000 +0200" stop="20261109070000 +0200" channel="TV1.lt">
-    <title lang="lt">Kakava 1/106</title>
-  </programme>
-  <programme start="20261109070000 +0200" stop="20261109080000 +0200" channel="TV1.lt">
-    <title lang="lt">Meilės spąstai 114</title>
-  </programme>
-  <programme start="20261109080000 +0200" stop="20261109083000 +0200" channel="TV1.lt">
-    <title lang="lt">Akloji 35</title>
-  </programme>
-  <programme start="20261109083000 +0200" stop="20261109090000 +0200" channel="TV1.lt">
-    <title lang="lt">Akloji 4/28</title>
-  </programme>
-  <programme start="20261109090000 +0200" stop="20261109100000 +0200" channel="TV1.lt">
-    <title lang="lt">Leila 68</title>
-  </programme>
-  <programme start="20261109100000 +0200" stop="20261109110000 +0200" channel="TV1.lt">
-    <title lang="lt">"Velvet". Nauja imperija 1/73</title>
-  </programme>
-  <programme start="20261109110000 +0200" stop="20261109120000 +0200" channel="TV1.lt">
-    <title lang="lt">Einšteinas 1/8</title>
-  </programme>
-  <programme start="20261109120000 +0200" stop="20261109130000 +0200" channel="TV1.lt">
-    <title lang="lt">Rezidentas 5/4</title>
-  </programme>
-  <programme start="20261109130000 +0200" stop="20261109140000 +0200" channel="TV1.lt">
-    <title lang="lt">Įstatymas ir tvarka. Specialiųjų tyrimų skyrius 21/16</title>
-  </programme>
-  <programme start="20261109140000 +0200" stop="20261109150000 +0200" channel="TV1.lt">
-    <title lang="lt">Prahos kriminalinė policija 3/34</title>
-  </programme>
-  <programme start="20261109150000 +0200" stop="20261109153500 +0200" channel="TV1.lt">
-    <title lang="lt">Anupama 1999</title>
-  </programme>
-  <programme start="20261109153500 +0200" stop="20261109163000 +0200" channel="TV1.lt">
-    <title lang="lt">Likimo seserys 314</title>
-  </programme>
-  <programme start="20261109163000 +0200" stop="20261109170000 +0200" channel="TV1.lt">
-    <title lang="lt">Akloji 36</title>
-  </programme>
-  <programme start="20261109170000 +0200" stop="20261109173000 +0200" channel="TV1.lt">
-    <title lang="lt">Akloji 4/30</title>
-  </programme>
-  <programme start="20261109173000 +0200" stop="20261109180000 +0200" channel="TV1.lt">
-    <title lang="lt">Akloji 4/31</title>
-  </programme>
-  <programme start="20261109180000 +0200" stop="20261109190000 +0200" channel="TV1.lt">
-    <title lang="lt">Pirmieji pasimatymai 9/4</title>
-  </programme>
-  <programme start="20261109190000 +0200" stop="20261109200000 +0200" channel="TV1.lt">
-    <title lang="lt">Rezidentas 5/5</title>
-  </programme>
-  <programme start="20261109200000 +0200" stop="20261109210000 +0200" channel="TV1.lt">
-    <title lang="lt">Įstatymas ir tvarka. Specialiųjų tyrimų skyrius 21/17</title>
-  </programme>
-  <programme start="20261109210000 +0200" stop="20261109224000 +0200" channel="TV1.lt">
-    <title lang="lt">Kretos nusikaltimai. Mirtis įlankoje</title>
-  </programme>
-  <programme start="20261109224000 +0200" stop="20261109234500 +0200" channel="TV1.lt">
-    <title lang="lt">Prahos kriminalinė policija 3/34</title>
-  </programme>
-  <programme start="20261109234500 +0200" stop="20261110015000 +0200" channel="TV1.lt">
-    <title lang="lt">Kandisė Renuar</title>
   </programme>
   <programme start="20261110015000 +0200" stop="20261110024500 +0200" channel="TV1.lt">
     <title lang="lt">Leila 68</title>
@@ -20365,41 +19579,17 @@
   <programme start="20261115210000 +0200" stop="20261115224000 +0200" channel="TV1.lt">
     <title lang="lt">Nusikaltimo skonis</title>
   </programme>
-  <programme start="20261115224000 +0200" stop="20261115234000 +0200" channel="TV1.lt">
+  <programme start="20261115224000 +0200" stop="20261116005000 +0200" channel="TV1.lt">
     <title lang="lt">Kaip atsikratyti boso 2</title>
   </programme>
-  <programme start="20261109003000 +0200" stop="20261109052000 +0200" channel="Sport1.lt">
-    <title lang="lt">ONE Championship. One 159</title>
+  <programme start="20261116005000 +0200" stop="20261116014500 +0200" channel="TV1.lt">
+    <title lang="lt">Teisingumas. Tie, kurie žudo 1</title>
   </programme>
-  <programme start="20261109052000 +0200" stop="20261109070000 +0200" channel="Sport1.lt">
-    <title lang="lt">Pasaulio moterų rankinio čempionato atrankos rungtynės. Lietuva - Belgija</title>
+  <programme start="20261116014500 +0200" stop="20261116023500 +0200" channel="TV1.lt">
+    <title lang="lt">Teisingumas. Tie, kurie žudo 2</title>
   </programme>
-  <programme start="20261109070000 +0200" stop="20261109080000 +0200" channel="Sport1.lt">
-    <title lang="lt">Dailusis čiuožimas. Prancūzijos ISU Grand Prix. Anžė. Šokiai ant ledo. Laisvoji programa</title>
-  </programme>
-  <programme start="20261109080000 +0200" stop="20261109114000 +0200" channel="Sport1.lt">
-    <title lang="lt">NASCAR. Martinsville Speedway</title>
-  </programme>
-  <programme start="20261109114000 +0200" stop="20261109140000 +0200" channel="Sport1.lt">
-    <title lang="lt">Graikijos krepšinio lyga. Aris - Panathinaikos</title>
-  </programme>
-  <programme start="20261109140000 +0200" stop="20261109160000 +0200" channel="Sport1.lt">
-    <title lang="lt">Turkijos krepšinio lyga. Fenerbahce - Tofas</title>
-  </programme>
-  <programme start="20261109160000 +0200" stop="20261109180000 +0200" channel="Sport1.lt">
-    <title lang="lt">Portugalijos "Primeira" futbolo lyga. Estrela - SL Benfica</title>
-  </programme>
-  <programme start="20261109180000 +0200" stop="20261109200000 +0200" channel="Sport1.lt">
-    <title lang="lt">Vokietijos BBL lyga. Wurzburg Baskets - Bayern München</title>
-  </programme>
-  <programme start="20261109200000 +0200" stop="20261109213000 +0200" channel="Sport1.lt">
-    <title lang="lt">Tenisas. ATP Challenger 125. Porto. Edas Butvilas - Michael Geerts</title>
-  </programme>
-  <programme start="20261109213000 +0200" stop="20261109233000 +0200" channel="Sport1.lt">
-    <title lang="lt">Graikijos krepšinio lyga. AEK Athens - Panathinaikos</title>
-  </programme>
-  <programme start="20261109233000 +0200" stop="20261110032000 +0200" channel="Sport1.lt">
-    <title lang="lt">ONE Championship. One Friday Fights 63</title>
+  <programme start="20261116023500 +0200" stop="20261116033500 +0200" channel="TV1.lt">
+    <title lang="lt">Nebylus liudijimas 28/2</title>
   </programme>
   <programme start="20261110032000 +0200" stop="20261110070000 +0200" channel="Sport1.lt">
     <title lang="lt">NASCAR. Martinsville Speedway</title>
@@ -20600,12 +19790,15 @@
     <title lang="lt">Tenisas. ATP Challenger 125. Orleanas. Finalas</title>
   </programme>
   <programme start="20261115193000 +0200" stop="20261115211000 +0200" channel="Sport1.lt">
-    <title lang="lt">Europos vyrų rankinio čempionato atrankos rungtynės. Lietuva - Nyderlandai</title>
+    <title lang="lt">Rankinio čempionų lyga. Orlen Wisla Plock - HBC Nantes</title>
   </programme>
   <programme start="20261115211000 +0200" stop="20261115225000 +0200" channel="Sport1.lt">
     <title lang="lt">Dailusis čiuožimas. ISU Grand Prix. Everetas. Šokiai ant ledo. Laisvoji programa</title>
   </programme>
-  <programme start="20261115225000 +0200" stop="20261115235000 +0200" channel="Sport1.lt">
+  <programme start="20261115225000 +0200" stop="20261116002000 +0200" channel="Sport1.lt">
     <title lang="lt">Pasaulio moterų rankinio čempionato atrankos rungtynės. Lietuva - Belgija</title>
+  </programme>
+  <programme start="20261116002000 +0200" stop="20261116012000 +0200" channel="Sport1.lt">
+    <title lang="lt">ONE Championship. One Friday Fights 57</title>
   </programme>
 </tv>
