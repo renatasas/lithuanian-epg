@@ -19088,7 +19088,7 @@
     <title lang="lt">Eurolyga. ASVEL - "Besiktas" 90</title>
   </programme>
   <programme start="20261114204000 +0200" stop="20261114231500 +0200" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">Šveicarijos lyga 31</title>
+    <title lang="lt">Šveicarijos lyga. ZSC Lions - Zug 31</title>
   </programme>
   <programme start="20261114231500 +0200" stop="20261115011500 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">ATP 250 Stockholm turnyras 9</title>
@@ -19105,17 +19105,17 @@
   <programme start="20261115040000 +0200" stop="20261115080000 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">UFC 196</title>
   </programme>
-  <programme start="20261115080000 +0200" stop="20261115100000 +0200" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">Eurolyga. "Anadolu Efes" - "Virtus" 88</title>
+  <programme start="20261115080000 +0200" stop="20261115090000 +0200" channel="GO3 Sport 1 (LT).lt">
+    <title lang="lt">Motosportas: apžvalga 4</title>
   </programme>
-  <programme start="20261115100000 +0200" stop="20261115120500 +0200" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261115090000 +0200" stop="20261115112500 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Eurolyga. "Panathinaikos" - "Barcelona" 89</title>
   </programme>
-  <programme start="20261115120500 +0200" stop="20261115141000 +0200" channel="GO3 Sport 1 (LT).lt">
+  <programme start="20261115112500 +0200" stop="20261115134500 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Eurolyga. ASVEL - "Besiktas" 90</title>
   </programme>
-  <programme start="20261115141000 +0200" stop="20261115161000 +0200" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">Šveicarijos lyga. Bern - Fribourg 42</title>
+  <programme start="20261115134500 +0200" stop="20261115161000 +0200" channel="GO3 Sport 1 (LT).lt">
+    <title lang="lt">Šveicarijos lyga 42</title>
   </programme>
   <programme start="20261115161000 +0200" stop="20261115181000 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Šveicarijos lyga 30</title>
@@ -19136,7 +19136,7 @@
     <title lang="lt">Regbis. Tautų čempionatas 18</title>
   </programme>
   <programme start="20261116032500 +0200" stop="20261116060000 +0200" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">Regbis. Tautų čempionatas 20</title>
+    <title lang="lt">Eurolyga. "Anadolu Efes" - "Virtus" 88</title>
   </programme>
   <programme start="20261116060000 +0200" stop="20261116070000 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Rodeo 12</title>
@@ -19322,7 +19322,7 @@
     <title lang="lt">Eurolyga. "Panathinaikos" - "Barcelona" 89</title>
   </programme>
   <programme start="20261114072900 +0200" stop="20261114092500 +0200" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">Šveicarijos lyga. Bern - Fribourg 42</title>
+    <title lang="lt">Šveicarijos lyga 42</title>
   </programme>
   <programme start="20261114092500 +0200" stop="20261114113500 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">ATP 250 Stockholm turnyras 7</title>
@@ -19360,20 +19360,20 @@
   <programme start="20261115050500 +0200" stop="20261115070000 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Regbis. Tautų čempionatas 19</title>
   </programme>
-  <programme start="20261115070000 +0200" stop="20261115085400 +0200" channel="GO3 Sport 2 (LT).lt">
+  <programme start="20261115070000 +0200" stop="20261115085000 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Regbis. Tautų čempionatas 18</title>
   </programme>
-  <programme start="20261115085400 +0200" stop="20261115104900 +0200" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">Regbis. Tautų čempionatas 20</title>
+  <programme start="20261115085000 +0200" stop="20261115104900 +0200" channel="GO3 Sport 2 (LT).lt">
+    <title lang="lt">ATP 250 Stockholm turnyras 9</title>
   </programme>
-  <programme start="20261115104900 +0200" stop="20261115111500 +0200" channel="GO3 Sport 2 (LT).lt">
+  <programme start="20261115104900 +0200" stop="20261115112000 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Futbolas: Serie A 12</title>
   </programme>
-  <programme start="20261115111500 +0200" stop="20261115130500 +0200" channel="GO3 Sport 2 (LT).lt">
+  <programme start="20261115112000 +0200" stop="20261115130500 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">NHL. "Kraken" - "Hurricanes" 8</title>
   </programme>
   <programme start="20261115130500 +0200" stop="20261115150000 +0200" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">Šveicarijos lyga 31</title>
+    <title lang="lt">Šveicarijos lyga. ZSC Lions - Zug 31</title>
   </programme>
   <programme start="20261115150000 +0200" stop="20261115170000 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">ATP finalinis turnyras 1</title>
@@ -19439,7 +19439,7 @@
     <title lang="lt">Šveicarijos lyga 32</title>
   </programme>
   <programme start="20261117090000 +0200" stop="20261117110000 +0200" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">Šveicarijos lyga. Bern - Fribourg 42</title>
+    <title lang="lt">Šveicarijos lyga 42</title>
   </programme>
   <programme start="20261117110000 +0200" stop="20261117130000 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Regbis. Tautų čempionatas 19</title>
@@ -19478,7 +19478,7 @@
     <title lang="lt">ATP 250 Stockholm turnyras 9</title>
   </programme>
   <programme start="20261118070000 +0200" stop="20261118085500 +0200" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">Regbis. Tautų čempionatas 20</title>
+    <title lang="lt">Šveicarijos lyga 30</title>
   </programme>
   <programme start="20261118085500 +0200" stop="20261118105000 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">Krepšinis - NCAA. Baylor - Texas 8</title>
