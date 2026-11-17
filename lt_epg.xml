@@ -17126,7 +17126,7 @@
     <title lang="lt">Rimti reikalai 9/45</title>
   </programme>
   <programme start="20261117200000 +0200" stop="20261117210000 +0200" channel="LNK.lt">
-    <title lang="lt">Slaptažodis</title>
+    <title lang="lt">Slaptažodis 1/12</title>
   </programme>
   <programme start="20261117210000 +0200" stop="20261117213000 +0200" channel="LNK.lt">
     <title lang="lt">Vieno kraujo 5</title>
@@ -18550,8 +18550,77 @@
   <programme start="20261123033000 +0200" stop="20261123041000 +0200" channel="Lietuvos ryto televizija.lt">
     <title lang="lt">Muzikos talentų lyga</title>
   </programme>
-  <programme start="20261123041000 +0200" stop="20261123051000 +0200" channel="Lietuvos ryto televizija.lt">
+  <programme start="20261123041000 +0200" stop="20261123050000 +0200" channel="Lietuvos ryto televizija.lt">
     <title lang="lt">24/7</title>
+  </programme>
+  <programme start="20261123050000 +0200" stop="20261123053000 +0200" channel="Lietuvos ryto televizija.lt">
+    <title lang="lt">Gyvenimas</title>
+  </programme>
+  <programme start="20261123053000 +0200" stop="20261123060000 +0200" channel="Lietuvos ryto televizija.lt">
+    <title lang="lt">Dalelė Lietuvos</title>
+  </programme>
+  <programme start="20261123060000 +0200" stop="20261123063000 +0200" channel="Lietuvos ryto televizija.lt">
+    <title lang="lt">Laiko pjūvis</title>
+  </programme>
+  <programme start="20261123063000 +0200" stop="20261123073000 +0200" channel="Lietuvos ryto televizija.lt">
+    <title lang="lt">24/7</title>
+  </programme>
+  <programme start="20261123073000 +0200" stop="20261123083000 +0200" channel="Lietuvos ryto televizija.lt">
+    <title lang="lt">Valanda su Valatka</title>
+  </programme>
+  <programme start="20261123083000 +0200" stop="20261123093000 +0200" channel="Lietuvos ryto televizija.lt">
+    <title lang="lt">Lietuvos miestai 1/1</title>
+  </programme>
+  <programme start="20261123093000 +0200" stop="20261123103000 +0200" channel="Lietuvos ryto televizija.lt">
+    <title lang="lt">Laisvės TV. Laikykitės ten. Pokalbiai</title>
+  </programme>
+  <programme start="20261123103000 +0200" stop="20261123113000 +0200" channel="Lietuvos ryto televizija.lt">
+    <title lang="lt">Neatrasta Rusija 1/31</title>
+  </programme>
+  <programme start="20261123113000 +0200" stop="20261123123000 +0200" channel="Lietuvos ryto televizija.lt">
+    <title lang="lt">24/7</title>
+  </programme>
+  <programme start="20261123123000 +0200" stop="20261123130000 +0200" channel="Lietuvos ryto televizija.lt">
+    <title lang="lt">Klausimėlis</title>
+  </programme>
+  <programme start="20261123130000 +0200" stop="20261123140000 +0200" channel="Lietuvos ryto televizija.lt">
+    <title lang="lt">Nauja diena</title>
+  </programme>
+  <programme start="20261123140000 +0200" stop="20261123153000 +0200" channel="Lietuvos ryto televizija.lt">
+    <title lang="lt">Senis 18/1</title>
+  </programme>
+  <programme start="20261123153000 +0200" stop="20261123160000 +0200" channel="Lietuvos ryto televizija.lt">
+    <title lang="lt">Noriu dirbti</title>
+  </programme>
+  <programme start="20261123160000 +0200" stop="20261123163000 +0200" channel="Lietuvos ryto televizija.lt">
+    <title lang="lt">Reporteris</title>
+  </programme>
+  <programme start="20261123163000 +0200" stop="20261123173000 +0200" channel="Lietuvos ryto televizija.lt">
+    <title lang="lt">Lietuva tiesiogiai</title>
+  </programme>
+  <programme start="20261123173000 +0200" stop="20261123180000 +0200" channel="Lietuvos ryto televizija.lt">
+    <title lang="lt">Krepšinio pasaulyje</title>
+  </programme>
+  <programme start="20261123180000 +0200" stop="20261123183000 +0200" channel="Lietuvos ryto televizija.lt">
+    <title lang="lt">Reporteris</title>
+  </programme>
+  <programme start="20261123183000 +0200" stop="20261123200000 +0200" channel="Lietuvos ryto televizija.lt">
+    <title lang="lt">Laisvės TV</title>
+  </programme>
+  <programme start="20261123200000 +0200" stop="20261123202500 +0200" channel="Lietuvos ryto televizija.lt">
+    <title lang="lt">Reporteris</title>
+  </programme>
+  <programme start="20261123202500 +0200" stop="20261123212500 +0200" channel="Lietuvos ryto televizija.lt">
+    <title lang="lt">Lietuva tiesiogiai</title>
+  </programme>
+  <programme start="20261123212500 +0200" stop="20261123223000 +0200" channel="Lietuvos ryto televizija.lt">
+    <title lang="lt">Neatrasta Rusija 1/33</title>
+  </programme>
+  <programme start="20261123223000 +0200" stop="20261123230000 +0200" channel="Lietuvos ryto televizija.lt">
+    <title lang="lt">Reporteris</title>
+  </programme>
+  <programme start="20261123230000 +0200" stop="20261124000000 +0200" channel="Lietuvos ryto televizija.lt">
+    <title lang="lt">Nauja diena</title>
   </programme>
   <programme start="20261117002000 +0200" stop="20261117004500 +0200" channel="Info TV.lt">
     <title lang="lt">Žinios</title>
@@ -20708,7 +20777,7 @@
     <title lang="lt">Bundesliga. "Werder" - "Hamburg" 24</title>
   </programme>
   <programme start="20261122203000 +0200" stop="20261122213500 +0200" channel="GO3 Sport 1 (LT).lt">
-    <title lang="lt">Rodeo. Kansas City 12</title>
+    <title lang="lt">Rodeo 12</title>
   </programme>
   <programme start="20261122213500 +0200" stop="20261122234500 +0200" channel="GO3 Sport 1 (LT).lt">
     <title lang="lt">Serie A. "Atalanta" - "Inter" 53</title>
@@ -20882,7 +20951,7 @@
     <title lang="lt">Šveicarijos lyga 34</title>
   </programme>
   <programme start="20261120110000 +0200" stop="20261120120000 +0200" channel="GO3 Sport 2 (LT).lt">
-    <title lang="lt">Rodeo. Kansas City 12</title>
+    <title lang="lt">Rodeo 12</title>
   </programme>
   <programme start="20261120120000 +0200" stop="20261120124000 +0200" channel="GO3 Sport 2 (LT).lt">
     <title lang="lt">GP Confidential 22</title>
@@ -21847,10 +21916,40 @@
   <programme start="20261122225000 +0200" stop="20261123002000 +0200" channel="Sport1.lt">
     <title lang="lt">Rankinio čempionų lyga. Industria Kielce - Barcelona</title>
   </programme>
-  <programme start="20261123002000 +0200" stop="20261123043000 +0200" channel="Sport1.lt">
+  <programme start="20261123002000 +0200" stop="20261123020000 +0200" channel="Sport1.lt">
     <title lang="lt">ONE Championship. One Friday Fights 43</title>
   </programme>
-  <programme start="20261123043000 +0200" stop="20261123053000 +0200" channel="Sport1.lt">
+  <programme start="20261123020000 +0200" stop="20261123043000 +0200" channel="Sport1.lt">
+    <title lang="lt">ONE Championship. One Friday Fights 43</title>
+  </programme>
+  <programme start="20261123043000 +0200" stop="20261123070000 +0200" channel="Sport1.lt">
     <title lang="lt">Lengvoji atletika. World Athletics Continental Tour Silver. Roveretas</title>
+  </programme>
+  <programme start="20261123070000 +0200" stop="20261123092000 +0200" channel="Sport1.lt">
+    <title lang="lt">Vokietijos BBL lyga. Wurzburg Baskets - Bayern München</title>
+  </programme>
+  <programme start="20261123092000 +0200" stop="20261123112000 +0200" channel="Sport1.lt">
+    <title lang="lt">Graikijos krepšinio lyga. AEK Athens - Panathinaikos</title>
+  </programme>
+  <programme start="20261123112000 +0200" stop="20261123130000 +0200" channel="Sport1.lt">
+    <title lang="lt">Dailusis čiuožimas. ISU Grand Prix. Everetas. Šokiai ant ledo. Laisvoji programa</title>
+  </programme>
+  <programme start="20261123130000 +0200" stop="20261123150000 +0200" channel="Sport1.lt">
+    <title lang="lt">Graikijos krepšinio lyga. Panathinaikos - Kolossos Rhodes</title>
+  </programme>
+  <programme start="20261123150000 +0200" stop="20261123161000 +0200" channel="Sport1.lt">
+    <title lang="lt">Tenisas. ATP Challenger 125. Orleanas. Finalas</title>
+  </programme>
+  <programme start="20261123161000 +0200" stop="20261123180000 +0200" channel="Sport1.lt">
+    <title lang="lt">Greitasis čiuožimas. Pasaulio taurė. Obihiras. Trečioji diena</title>
+  </programme>
+  <programme start="20261123180000 +0200" stop="20261123200000 +0200" channel="Sport1.lt">
+    <title lang="lt">Optibet ledo ritulio lyga. HC Energija - HK MOGO/RSU</title>
+  </programme>
+  <programme start="20261123200000 +0200" stop="20261123220000 +0200" channel="Sport1.lt">
+    <title lang="lt">Vokietijos BBL lyga. Alba Berlin - Bayern München</title>
+  </programme>
+  <programme start="20261123220000 +0200" stop="20261123230000 +0200" channel="Sport1.lt">
+    <title lang="lt">Graikijos krepšinio lyga. AS Karditsas - Olympiacos</title>
   </programme>
 </tv>
