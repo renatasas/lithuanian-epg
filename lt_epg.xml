@@ -13757,14 +13757,8 @@
   <programme start="20261120020000 +0200" stop="20261120030000 +0200" channel="LRT PLIUS.lt">
     <title lang="lt">Stilius 1/13</title>
   </programme>
-  <programme start="20261120030000 +0200" stop="20261120033000 +0200" channel="LRT PLIUS.lt">
+  <programme start="20261120030000 +0200" stop="20261120040000 +0200" channel="LRT PLIUS.lt">
     <title lang="lt">Panorama 7/323</title>
-  </programme>
-  <programme start="20261120033000 +0200" stop="20261120035000 +0200" channel="LRT PLIUS.lt">
-    <title lang="lt">Dienos tema 7/201</title>
-  </programme>
-  <programme start="20261120035000 +0200" stop="20261120040000 +0200" channel="LRT PLIUS.lt">
-    <title lang="lt">Sportas. Orai 323</title>
   </programme>
   <programme start="20261120040000 +0200" stop="20261120043000 +0200" channel="LRT PLIUS.lt">
     <title lang="lt">Mes ukrainiečiai 4/9</title>
@@ -14078,8 +14072,11 @@
   <programme start="20261123063000 +0200" stop="20261123090000 +0200" channel="LRT PLIUS.lt">
     <title lang="lt">Ryto garsai 1/125</title>
   </programme>
-  <programme start="20261123090000 +0200" stop="20261123100500 +0200" channel="LRT PLIUS.lt">
+  <programme start="20261123090000 +0200" stop="20261123100400 +0200" channel="LRT PLIUS.lt">
     <title lang="lt">Lietuvos kariuomenės diena. Šv. Mišių transliacija iš Vilniaus šv. Ignoto bažnyčios</title>
+  </programme>
+  <programme start="20261123100400 +0200" stop="20261123100500 +0200" channel="LRT PLIUS.lt">
+    <title lang="lt">Nesakyk PO TO 1/1</title>
   </programme>
   <programme start="20261123100500 +0200" stop="20261123123000 +0200" channel="LRT PLIUS.lt">
     <title lang="lt">Labas rytas, Lietuva 6/229</title>
@@ -14484,7 +14481,7 @@
     <title lang="lt">Žinios. Sportas. Orai</title>
   </programme>
   <programme start="20261120193000 +0200" stop="20261120210000 +0200" channel="LNK.lt">
-    <title lang="lt">Muzikos detektyvai</title>
+    <title lang="lt">Muzikos detektyvai 2/10</title>
   </programme>
   <programme start="20261120210000 +0200" stop="20261120231000 +0200" channel="LNK.lt">
     <title lang="lt">Užtarnautas poilsis</title>
@@ -14598,7 +14595,7 @@
     <title lang="lt">TAIP ir NE</title>
   </programme>
   <programme start="20261123073000 +0200" stop="20261123090000 +0200" channel="LNK.lt">
-    <title lang="lt">Muzikos detektyvai</title>
+    <title lang="lt">Muzikos detektyvai 2/10</title>
   </programme>
   <programme start="20261123090000 +0200" stop="20261123100000 +0200" channel="LNK.lt">
     <title lang="lt">Šviežias kraujas 2/13</title>
@@ -16218,7 +16215,7 @@
     <title lang="lt">Šeškinės 20 6/12</title>
   </programme>
   <programme start="20261121160000 +0200" stop="20261121173000 +0200" channel="Info TV.lt">
-    <title lang="lt">Muzikos detektyvai</title>
+    <title lang="lt">Muzikos detektyvai 2/10</title>
   </programme>
   <programme start="20261121173000 +0200" stop="20261121180000 +0200" channel="Info TV.lt">
     <title lang="lt">KK2</title>
@@ -16305,7 +16302,7 @@
     <title lang="lt">Palaidoti. Tamplieriai ir šventasis Gralis 1/2</title>
   </programme>
   <programme start="20261122133000 +0200" stop="20261122150000 +0200" channel="Info TV.lt">
-    <title lang="lt">Muzikos detektyvai</title>
+    <title lang="lt">Muzikos detektyvai 2/10</title>
   </programme>
   <programme start="20261122150000 +0200" stop="20261122160000 +0200" channel="Info TV.lt">
     <title lang="lt">Šeškinės 20 6/12</title>
@@ -16347,7 +16344,7 @@
     <title lang="lt">Lietuvos galiūnų čempionato finalas. Kazlų Rūda</title>
   </programme>
   <programme start="20261123010000 +0200" stop="20261123021500 +0200" channel="Info TV.lt">
-    <title lang="lt">Muzikos detektyvai</title>
+    <title lang="lt">Muzikos detektyvai 2/10</title>
   </programme>
   <programme start="20261123021500 +0200" stop="20261123031000 +0200" channel="Info TV.lt">
     <title lang="lt">Bus visko</title>
@@ -16398,7 +16395,7 @@
     <title lang="lt">Šeškinės 20</title>
   </programme>
   <programme start="20261123143000 +0200" stop="20261123160000 +0200" channel="Info TV.lt">
-    <title lang="lt">Muzikos detektyvai</title>
+    <title lang="lt">Muzikos detektyvai 2/10</title>
   </programme>
   <programme start="20261123160000 +0200" stop="20261123170000 +0200" channel="Info TV.lt">
     <title lang="lt">Šeškinės 20</title>
@@ -19533,7 +19530,7 @@
     <title lang="lt">Tenisas. ATP Challenger 125. Orleanas. Antrasis Pusfinalis</title>
   </programme>
   <programme start="20261125054000 +0200" stop="20261125070000 +0200" channel="Sport1.lt">
-    <title lang="lt">Pasaulio moterų rankinio čempionato atrankos rungtynės. Lietuva - Belgija</title>
+    <title lang="lt">Pasaulio moterų rankinio čempionato atrankos rungtynės. 2027 m</title>
   </programme>
   <programme start="20261125070000 +0200" stop="20261125105000 +0200" channel="Sport1.lt">
     <title lang="lt">NASCAR. Martinsville Speedway</title>
@@ -19572,7 +19569,7 @@
     <title lang="lt">Portugalijos "Primeira" futbolo lyga. SL Benfica - Alverca</title>
   </programme>
   <programme start="20261126090000 +0200" stop="20261126102000 +0200" channel="Sport1.lt">
-    <title lang="lt">Pasaulio moterų rankinio čempionato atrankos rungtynės. Lietuva - Belgija</title>
+    <title lang="lt">Pasaulio moterų rankinio čempionato atrankos rungtynės. 2027 m</title>
   </programme>
   <programme start="20261126102000 +0200" stop="20261126115000 +0200" channel="Sport1.lt">
     <title lang="lt">Rankinio čempionų lyga. Industria Kielce - Barcelona</title>
